@@ -3,7 +3,13 @@
 
 **Story**
 ------------------------
+Makers develop secure board during COVID-19 to support customers on re-thinking security strategies for their next secure product.
 
+*MCU*: SAML11 - CortexM23 
+*Secure Element*: ATECC608A Trust & Go
+*Programmer / Debugger*: Microchip low cost SNAP / PicKIT4
+*Expansion Connectors*: Mikroelektronika Click / Microchip Xplained
+*Interfaces*: FTDI USB to UART Bridge for debugging and powering the board
 
 **Details**
 ------------------------
