@@ -1,4 +1,4 @@
-**Trustify** - [Click here to purchase](https://)
+**Trustify** - [Link](https://)
 ====================================================
 
 **Story**
