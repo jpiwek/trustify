@@ -8,4 +8,4 @@
 **Details**
 ------------------------
 
-![Trustify]()<img src="" height="48" width="48">
+![Trustify](images/overview.png)<img src="images/overview.png" height="48" width="48">
