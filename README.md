@@ -3,7 +3,7 @@
 
 **Story**
 ------------------------
-Makers develop secure board during COVID-19 to support communities and device manufacturers on re-thinking security strategies for their next product.
+Makers develop a secure board during COVID-19 to support communities and device manufacturers on rethinking security strategies for their next product roadmap.
 
   - *MCU*: SAML11 - CortexM23 with TrustZone Hypervisor 
   - *Secure Element*: JIL rated ATECC608A Trust & Go with pre-provisioned certificate chain, keys
