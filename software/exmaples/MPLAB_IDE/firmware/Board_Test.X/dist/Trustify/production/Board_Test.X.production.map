@@ -1,0 +1,1954 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+                              build/Trustify/production/_ext/1060005641/startup_xc32.o (__pic32c_data_initialization)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_aeabi_uldivmod.o)
+                              build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o (__aeabi_uldivmod)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_muldi3.o)
+                              build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o (__aeabi_lmul)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_dvmd_tls.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_clzsi2.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o) (__clzsi2)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+                              build/Trustify/production/_ext/1060005641/startup_xc32.o (__libc_init_array)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+                              build/Trustify/production/_ext/2117940715/plib_nvmctrl.o (memcpy)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+                              build/Trustify/production/_ext/1360937237/main.o (puts)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o) (__swbuf_r)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o) (__swsetup_r)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o) (_fflush_r)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o) (__sinit)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o) (_fwalk_reent)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-impure.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o) (_global_impure_ptr)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o) (memset)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o) (_free_r)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o) (_malloc_r)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o) (__sread)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o) (_write_r)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o) (_close_r)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o) (_fstat_r)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o) (_isatty_r)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o) (_lseek_r)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o) (_read_r)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o) (errno)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o) (_close)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o) (_fstat)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o) (_isatty)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o) (_lseek)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o) (_read)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(sbrk.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o) (_write)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o) (close)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(fstat.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o) (fstat)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(isatty.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o) (isatty)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(lseek.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o) (lseek)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o) (read)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+                              c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o) (write)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+systick             0xc               build/Trustify/production/_ext/1883465617/plib_systick.o
+
+Microchip PIC32 Memory-Usage Report
+
+ROM Program-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.vectors                         0           0xf4         244   
+.text                         0xf4           0x20          32  App's exec code 
+.text.__sflush_r             0x114          0x110         272   
+.text.__swsetup_r            0x224           0xe4         228   
+.text._puts_r                0x308           0xd4         212   
+.dinit                       0x3dc           0xd0         208   
+.text.__swbuf_r              0x4ac           0xc0         192   
+.text._malloc_r              0x56c           0xbc         188   
+.text.CLOCK_Initialize       0x628           0xb0         176   
+.text._free_r                0x6d8           0x8c         140   
+.text.__pic32c_data_ini      0x764           0x88         136   
+.text.__sfp                  0x7ec           0x78         120   
+.text.__smakebuf_r           0x864           0x78         120   
+.text.__sinit                0x8dc           0x64         100   
+.text._fflush_r              0x940           0x54          84   
+.text.Reset_Handler          0x994           0x50          80   
+.text.__swhatbuf_r           0x9e4           0x50          80   
+.text.__libc_init_array      0xa34           0x48          72   
+.text.std.isra.0             0xa7c           0x48          72   
+.text                        0xac4           0x40          64  App's exec code 
+.text._fwalk_reent           0xb04           0x40          64   
+.text.SERCOM0_USART_Rea      0xb44           0x3c          60   
+.text.SERCOM0_USART_Ini      0xb80           0x38          56   
+.text.__swrite               0xbb8           0x38          56   
+.text.write                  0xbf0           0x38          56   
+.text.SERCOM0_USART_Err      0xc28           0x30          48   
+.text.SERCOM0_USART_Wri      0xc58           0x30          48   
+.text.SYS_Initialize         0xc88           0x30          48   
+.text.SYSTICK_DelayMs        0xcb8           0x30          48   
+.text.main                   0xce8           0x2c          44   
+.text.__sfmoreglue           0xd14           0x2c          44   
+.text.__sseek                0xd40           0x2c          44   
+.text._sbrk                  0xd6c           0x2c          44   
+.text.__sread                0xd98           0x28          40   
+.text.PM_Initialize          0xdc0           0x24          36   
+.text.SYSTICK_TimerInit      0xde4           0x24          36   
+.text._write_r               0xe08           0x24          36   
+.text._fstat_r               0xe2c           0x24          36   
+.text._lseek_r               0xe50           0x24          36   
+.text._read_r                0xe74           0x24          36   
+.text.read                   0xe98           0x24          36   
+.rodata.__sf_fake_stder      0xebc           0x20          32   
+.rodata.__sf_fake_stdin      0xedc           0x20          32   
+.rodata.__sf_fake_stdou      0xefc           0x20          32   
+.text._sbrk_r                0xf1c           0x20          32   
+.text._close_r               0xf3c           0x20          32   
+.text._isatty_r              0xf5c           0x20          32   
+.text.PORT_Initialize        0xf7c           0x1c          28   
+.text.SysTick_Handler        0xf98           0x1c          28   
+.text._mon_getc              0xfb4           0x1a          26   
+.text._mon_putc              0xfce           0x1a          26   
+.text.SYSTICK_TimerStar      0xfe8           0x14          20   
+.text.puts                   0xffc           0x14          20   
+.text.NVMCTRL_Initializ     0x1010           0x10          16   
+.rodata                     0x1020           0x10          16  Read-only const 
+.text._cleanup_r            0x1030           0x10          16   
+.text.memset                0x1040           0x10          16   
+.text.__sclose              0x1050            0xc          12   
+.text.fstat                 0x105c            0xc          12   
+.text.NVIC_Initialize       0x1068            0x8           8   
+.text._close                0x1070            0x8           8   
+.text._fstat                0x1078            0x8           8   
+.text._isatty               0x1080            0x8           8   
+.text._lseek                0x1088            0x8           8   
+.text._read                 0x1090            0x8           8   
+.text._write                0x1098            0x8           8   
+.text.close                 0x10a0            0x8           8   
+.rodata._global_impure_     0x10a8            0x4           4   
+.text.isatty                0x10ac            0x4           4   
+.text.lseek                 0x10b0            0x4           4   
+.text.EVSYS_Initialize      0x10b4            0x2           2   
+.text.Dummy_Handler         0x10b6            0x2           2   
+.text.NonMaskableInt_Ha     0x10b8            0x2           2   
+.text.HardFault_Handler     0x10ba            0x2           2   
+.text.__malloc_lock         0x10bc            0x2           2   
+.text.__malloc_unlock       0x10be            0x2           2   
+      Total ROM used  :      0x10c0        4288  13.1% of 0x8000
+        --------------------------------------------------------------------------
+         Total Program Memory used  :      0x10c0        4288  13.1% of 0x8000
+        --------------------------------------------------------------------------
+
+
+RAM Data-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.bss                    0x20000000           0x10          16  Uninitialized data 
+.data.impure_data       0x20000010           0x60          96   
+.bss                    0x20000070           0x1c          28  Uninitialized data 
+.data._impure_ptr       0x2000008c            0x4           4   
+.bss.__malloc_free_list 0x20000090            0x4           4   
+.bss.__malloc_sbrk_star 0x20000094            0x4           4   
+.bss                    0x20000098            0x4           4  Uninitialized data 
+         Total RAM used  :        0x9c         156  1.9% of 0x2000
+        --------------------------------------------------------------------------
+            Total Data Memory used  :        0x9c         156  1.9% of 0x2000
+        --------------------------------------------------------------------------
+
+
+Dynamic Data-Memory Reservation
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+heap                    0x200000a0          0x200         512  Reserved for heap 
+stack                   0x200002b8         0x1d38        7480  Reserved for stack 
+
+        --------------------------------------------------------------------------
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crti.o
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crti.o
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crti.o
+ .data          0x00000000        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_CacheInvalidate
+                0x00000000       0x10 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_Read
+                0x00000000       0x10 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_PageWrite
+                0x00000000       0x3c build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_RowErase
+                0x00000000       0x2c build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_ErrorGet
+                0x00000000       0x10 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_IsBusy
+                0x00000000       0x14 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_RegionLock
+                0x00000000       0x14 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_RegionUnlock
+                0x00000000       0x1c build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .text.SERCOM0_USART_FrequencyGet
+                0x00000000        0x8 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .text.SERCOM0_USART_SerialSetup
+                0x00000000       0xfc build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .text.SERCOM0_USART_TransmitterIsReady
+                0x00000000       0x10 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .text.SERCOM0_USART_TransmitComplete
+                0x00000000       0x10 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .text.SERCOM0_USART_WriteByte
+                0x00000000       0x18 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .text.SERCOM0_USART_ReceiverIsReady
+                0x00000000       0x10 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .text.SERCOM0_USART_ReadByte
+                0x00000000        0xc build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .text.PM_IdleModeEnter
+                0x00000000       0x18 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .text.PM_StandbyModeEnter
+                0x00000000       0x18 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .text.PM_OffModeEnter
+                0x00000000       0x18 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .text.PM_ConfigurePerformanceLevel
+                0x00000000       0x3c build/Trustify/production/_ext/1958438824/plib_pm.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1360937237/main.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1360937237/main.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1360937237/main.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1060005641/initialization.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1060005641/initialization.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1060005641/initialization.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1060005641/interrupts.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1060005641/interrupts.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1060005641/interrupts.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1060005641/exceptions.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1060005641/exceptions.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1060005641/exceptions.o
+ .text.DebugMonitor_Handler
+                0x00000000        0x2 build/Trustify/production/_ext/1060005641/exceptions.o
+ .text.MemoryManagement_Handler
+                0x00000000        0x2 build/Trustify/production/_ext/1060005641/exceptions.o
+ .text.BusFault_Handler
+                0x00000000        0x2 build/Trustify/production/_ext/1060005641/exceptions.o
+ .text.UsageFault_Handler
+                0x00000000        0x2 build/Trustify/production/_ext/1060005641/exceptions.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/864028644/plib_port.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/864028644/plib_port.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupRead
+                0x00000000        0x4 build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupWrite
+                0x00000000        0xc build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupLatchRead
+                0x00000000        0x4 build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupSet
+                0x00000000        0x4 build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupClear
+                0x00000000        0x4 build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupToggle
+                0x00000000        0x4 build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupInputEnable
+                0x00000000        0x4 build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupOutputEnable
+                0x00000000        0x4 build/Trustify/production/_ext/864028644/plib_port.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text.SYSTICK_TimerRestart
+                0x00000000       0x1c build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text.SYSTICK_TimerStop
+                0x00000000       0x10 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text.SYSTICK_TimerPeriodSet
+                0x00000000        0xc build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text.SYSTICK_TimerPeriodGet
+                0x00000000        0xc build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text.SYSTICK_TimerCounterGet
+                0x00000000        0xc build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text.SYSTICK_TimerFrequencyGet
+                0x00000000        0x8 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text.SYSTICK_TimerCallbackSet
+                0x00000000        0xc build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .text._exit    0x00000000        0x2 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .debug_info    0x00000000      0xe78 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .debug_abbrev  0x00000000      0x1a1 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .debug_aranges
+                0x00000000       0x20 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .debug_ranges  0x00000000       0x10 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .debug_line    0x00000000      0x13e build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .debug_str     0x00000000        0xe build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .comment       0x00000000       0x3d build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .debug_frame   0x00000000       0x20 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .ARM.attributes
+                0x00000000       0x32 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .text          0x00000000       0x40 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x00000000       0xa7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x00000000       0xf8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x00000000       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000       0x42 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_muldi3.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_muldi3.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_muldi3.o)
+ .debug_info    0x00000000     0x13fb c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_muldi3.o)
+ .debug_abbrev  0x00000000      0x176 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_muldi3.o)
+ .debug_loc     0x00000000      0x164 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_muldi3.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_muldi3.o)
+ .debug_ranges  0x00000000       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_muldi3.o)
+ .debug_line    0x00000000      0x299 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_muldi3.o)
+ .debug_str     0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_muldi3.o)
+ .comment       0x00000000       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_muldi3.o)
+ .debug_frame   0x00000000       0x34 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_muldi3.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_muldi3.o)
+ .text          0x00000000      0x32a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x00000000        0x8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .debug_info    0x00000000     0x172e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .debug_abbrev  0x00000000      0x195 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .debug_loc     0x00000000      0xe18 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .debug_ranges  0x00000000       0xa0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .debug_line    0x00000000      0x335 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .debug_str     0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .comment       0x00000000       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_udivmoddi4.o)
+ .text          0x00000000        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_dvmd_tls.o)
+ .debug_line    0x00000000       0x9c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_dvmd_tls.o)
+ .debug_info    0x00000000       0xf8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x00000000       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000       0x3c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_clzsi2.o)
+ .debug_line    0x00000000       0xb0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_clzsi2.o)
+ .debug_info    0x00000000       0xf8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000000       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(_clzsi2.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x00000000       0x12 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_info    0x00000000      0xdfb c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_abbrev  0x00000000      0x17c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_loc     0x00000000       0xde c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_ranges  0x00000000       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_line    0x00000000      0x21c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_str     0x00000000        0x9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .comment       0x00000000       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x00000000       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+ .text.fflush   0x00000000       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x00000000       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x00000000       0x36 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x18 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xb4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(sbrk.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(sbrk.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+ .gnu.warning.closestub
+                0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(fstat.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(fstat.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(fstat.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(isatty.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(isatty.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(isatty.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(lseek.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(lseek.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(lseek.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtend.o
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtend.o
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtend.o
+ .eh_frame      0x00000000        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtend.o
+ .comment       0x00000000       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtend.o
+ .ARM.attributes
+                0x00000000       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtend.o
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtn.o
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtn.o
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x00000000         0x00008000         xrl
+ram              0x20000000         0x00002000         xw !r
+config_00804000  0x00804000         0x00000004
+config_00804004  0x00804004         0x00000004
+config_00804008  0x00804008         0x00000004
+config_0080400C  0x0080400c         0x00000004
+config_00804010  0x00804010         0x00000004
+config_00804014  0x00804014         0x00000004
+config_00804018  0x00804018         0x00000004
+config_0080401C  0x0080401c         0x00000004
+config_0080C000  0x0080c000         0x00000004
+config_0080C004  0x0080c004         0x00000004
+config_0080C008  0x0080c008         0x00000004
+config_0080C010  0x0080c010         0x00000004
+config_0080C014  0x0080c014         0x00000004
+config_0080C018  0x0080c018         0x00000004
+config_0080C01C  0x0080c01c         0x00000004
+config_0080C020  0x0080c020         0x00000004
+config_0080C024  0x0080c024         0x00000004
+config_0080C028  0x0080c028         0x00000004
+config_0080C02C  0x0080c02c         0x00000004
+config_0080C030  0x0080c030         0x00000004
+config_0080C034  0x0080c034         0x00000004
+config_0080C038  0x0080c038         0x00000004
+config_0080C03C  0x0080c03c         0x00000004
+config_0080C040  0x0080c040         0x00000004
+config_0080C044  0x0080c044         0x00000004
+config_0080C048  0x0080c048         0x00000004
+config_0080C04C  0x0080c04c         0x00000004
+config_0080C050  0x0080c050         0x00000004
+config_0080C054  0x0080c054         0x00000004
+config_0080C058  0x0080c058         0x00000004
+config_0080C05C  0x0080c05c         0x00000004
+config_0080C060  0x0080c060         0x00000004
+config_0080C064  0x0080c064         0x00000004
+config_0080C068  0x0080c068         0x00000004
+config_0080C06C  0x0080c06c         0x00000004
+config_0080C0E0  0x0080c0e0         0x00000004
+config_0080C0E4  0x0080c0e4         0x00000004
+config_0080C0E8  0x0080c0e8         0x00000004
+config_0080C0EC  0x0080c0ec         0x00000004
+config_0080C0F0  0x0080c0f0         0x00000004
+config_0080C0F4  0x0080c0f4         0x00000004
+config_0080C0F8  0x0080c0f8         0x00000004
+config_0080C0FC  0x0080c0fc         0x00000004
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crti.o
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+LOAD build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+LOAD build/Trustify/production/_ext/1025033151/plib_evsys.o
+LOAD build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+LOAD build/Trustify/production/_ext/1958438824/plib_pm.o
+LOAD build/Trustify/production/_ext/1360937237/main.o
+LOAD build/Trustify/production/_ext/1060005641/initialization.o
+LOAD build/Trustify/production/_ext/1060005641/interrupts.o
+LOAD build/Trustify/production/_ext/1060005641/exceptions.o
+LOAD build/Trustify/production/_ext/874600305/xc32_monitor.o
+LOAD build/Trustify/production/_ext/864028644/plib_port.o
+LOAD build/Trustify/production/_ext/1027182637/plib_clock.o
+LOAD build/Trustify/production/_ext/864081795/plib_nvic.o
+LOAD build/Trustify/production/_ext/1883465617/plib_systick.o
+LOAD build/Trustify/production/_ext/1060005641/startup_xc32.o
+LOAD build/Trustify/production/_ext/1060005641/libc_syscalls.o
+                0x00000001                __MPLAB_BUILD = 0x1
+                0x00000200                _min_heap_size = 0x200
+START GROUP
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libm_nano.a
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a
+END GROUP
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtend.o
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtn.o
+                0x00008000                __rom_end = (ORIGIN (rom) + LENGTH (rom))
+                0x00008000                __rom_nsc_end = (ORIGIN (rom_nsc) + LENGTH (rom_nsc))
+                0x20002000                __ram_end = (ORIGIN (ram) + LENGTH (ram))
+
+.config_00804000
+                0x00804000        0x4
+ *(.config_00804000)
+ .config_00804000
+                0x00804000        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_00804004
+                0x00804004        0x4
+ *(.config_00804004)
+ .config_00804004
+                0x00804004        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_00804008
+ *(.config_00804008)
+
+.config_0080400C
+ *(.config_0080400C)
+
+.config_00804010
+ *(.config_00804010)
+
+.config_00804014
+ *(.config_00804014)
+
+.config_00804018
+ *(.config_00804018)
+
+.config_0080401C
+ *(.config_0080401C)
+
+.config_0080C000
+ *(.config_0080C000)
+
+.config_0080C004
+ *(.config_0080C004)
+
+.config_0080C008
+ *(.config_0080C008)
+
+.config_0080C010
+ *(.config_0080C010)
+
+.config_0080C014
+ *(.config_0080C014)
+
+.config_0080C018
+ *(.config_0080C018)
+
+.config_0080C01C
+ *(.config_0080C01C)
+
+.config_0080C020
+ *(.config_0080C020)
+
+.config_0080C024
+ *(.config_0080C024)
+
+.config_0080C028
+ *(.config_0080C028)
+
+.config_0080C02C
+ *(.config_0080C02C)
+
+.config_0080C030
+ *(.config_0080C030)
+
+.config_0080C034
+ *(.config_0080C034)
+
+.config_0080C038
+ *(.config_0080C038)
+
+.config_0080C03C
+ *(.config_0080C03C)
+
+.config_0080C040
+ *(.config_0080C040)
+
+.config_0080C044
+ *(.config_0080C044)
+
+.config_0080C048
+ *(.config_0080C048)
+
+.config_0080C04C
+ *(.config_0080C04C)
+
+.config_0080C050
+ *(.config_0080C050)
+
+.config_0080C054
+ *(.config_0080C054)
+
+.config_0080C058
+ *(.config_0080C058)
+
+.config_0080C05C
+ *(.config_0080C05C)
+
+.config_0080C060
+ *(.config_0080C060)
+
+.config_0080C064
+ *(.config_0080C064)
+
+.config_0080C068
+ *(.config_0080C068)
+
+.config_0080C06C
+ *(.config_0080C06C)
+
+.config_0080C0E0
+ *(.config_0080C0E0)
+
+.config_0080C0E4
+ *(.config_0080C0E4)
+
+.config_0080C0E8
+ *(.config_0080C0E8)
+
+.config_0080C0EC
+ *(.config_0080C0EC)
+
+.config_0080C0F0
+ *(.config_0080C0F0)
+
+.config_0080C0F4
+ *(.config_0080C0F4)
+
+.config_0080C0F8
+ *(.config_0080C0F8)
+
+.config_0080C0FC
+ *(.config_0080C0FC)
+
+.vectors        0x00000000       0xf4
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                _sfixed = .
+ *(.vectors .vectors.* .vectors_default .vectors_default.*)
+ .vectors       0x00000000       0xf4 build/Trustify/production/_ext/1060005641/interrupts.o
+                0x00000000                exception_table
+ *(.isr_vector)
+ *(.reset*)
+ *(.after_vectors)
+
+.text           0x000000f4       0x20
+                0x000000f4                . = ALIGN (0x4)
+ *(.glue_7t)
+ .glue_7t       0x000000f4        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x000000f4        0x0 linker stubs
+ *(.gnu.linkonce.r.*)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000000f4                . = ALIGN (0x4)
+ *(.init)
+ .init          0x000000f4        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crti.o
+                0x000000f4                _init
+ .init          0x000000f8        0x8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtn.o
+                0x00000100                . = ALIGN (0x4)
+                0x00000100                __preinit_array_start = .
+ *(.preinit_array)
+                0x00000100                __preinit_array_end = .
+                0x00000100                . = ALIGN (0x4)
+                0x00000100                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00000100        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+                0x00000104                __init_array_end = .
+                0x00000104                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *crtend.o(.ctors)
+                0x00000104                . = ALIGN (0x4)
+ *(.fini)
+ .fini          0x00000104        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crti.o
+                0x00000104                _fini
+ .fini          0x00000108        0x8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtn.o
+                0x00000110                . = ALIGN (0x4)
+                0x00000110                __fini_array_start = .
+ *(.fini_array)
+ .fini_array    0x00000110        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x00000114                __fini_array_end = .
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *crtend.o(.dtors)
+                0x00000114                . = ALIGN (0x4)
+                0x00000114                _efixed = .
+                [!provide]                PROVIDE (__exidx_start, .)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                [!provide]                PROVIDE (__exidx_end, .)
+                0x00000114                . = ALIGN (0x4)
+                0x00000114                _etext = .
+                0x00000114                . = ALIGN (0x4)
+
+.gnu.sgstubs    0x00008000        0x0
+                0x00008000                _ssgstubs = .
+
+.bss            0x20000000       0x10
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __bss_start__ = .
+                0x20000000                _sbss = .
+                0x20000000                _szero = .
+ *(COMMON)
+ COMMON         0x20000000        0xc build/Trustify/production/_ext/1883465617/plib_systick.o
+                0x20000000                systick
+ COMMON         0x2000000c        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+                0x2000000c                errno
+                0x20000010                . = ALIGN (0x4)
+                0x20000010                __bss_end__ = .
+                0x20000010                _ebss = .
+                0x20000010                _ezero = .
+                0x20000010                . = ALIGN (0x4)
+                0x20000010                _end = .
+                0x20001fff                _ram_end_ = ((ORIGIN (ram) + LENGTH (ram)) - 0x1)
+OUTPUT(dist/Trustify/production/Board_Test.X.production.elf elf32-littlearm)
+LOAD stack
+LOAD data_init
+
+.ARM.attributes
+                0x00000000       0x2e
+ .ARM.attributes
+                0x00000000       0x22 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crti.o
+ .ARM.attributes
+                0x00000022       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+ .ARM.attributes
+                0x00000052       0x32 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .ARM.attributes
+                0x00000084       0x32 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .ARM.attributes
+                0x000000b6       0x32 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .ARM.attributes
+                0x000000e8       0x32 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .ARM.attributes
+                0x0000011a       0x32 build/Trustify/production/_ext/1360937237/main.o
+ .ARM.attributes
+                0x0000014c       0x32 build/Trustify/production/_ext/1060005641/initialization.o
+ .ARM.attributes
+                0x0000017e       0x32 build/Trustify/production/_ext/1060005641/interrupts.o
+ .ARM.attributes
+                0x000001b0       0x32 build/Trustify/production/_ext/1060005641/exceptions.o
+ .ARM.attributes
+                0x000001e2       0x32 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .ARM.attributes
+                0x00000214       0x32 build/Trustify/production/_ext/864028644/plib_port.o
+ .ARM.attributes
+                0x00000246       0x32 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .ARM.attributes
+                0x00000278       0x32 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .ARM.attributes
+                0x000002aa       0x32 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .ARM.attributes
+                0x000002dc       0x32 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .ARM.attributes
+                0x0000030e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .ARM.attributes
+                0x0000033e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000036e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+ .ARM.attributes
+                0x0000039e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x000003ce       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x000003fe       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000042e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x0000045e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x0000048e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000004be       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x000004ee       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000051e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000054e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000057e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000005ae       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x000005de       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000060e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x0000063e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x0000066e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x0000069e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x000006ce       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000006fe       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x0000072e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000075e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+ .ARM.attributes
+                0x0000078e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+ .ARM.attributes
+                0x000007be       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+ .ARM.attributes
+                0x000007ee       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+ .ARM.attributes
+                0x0000081e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+ .ARM.attributes
+                0x0000084e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(sbrk.o)
+ .ARM.attributes
+                0x0000087e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+ .ARM.attributes
+                0x000008ae       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+ .ARM.attributes
+                0x000008de       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(fstat.o)
+ .ARM.attributes
+                0x0000090e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(isatty.o)
+ .ARM.attributes
+                0x0000093e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(lseek.o)
+ .ARM.attributes
+                0x0000096e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+ .ARM.attributes
+                0x0000099e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+ .ARM.attributes
+                0x000009ce       0x22 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtn.o
+
+.comment        0x00000000       0x3c
+ .comment       0x00000000       0x3c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+                                 0x3d (size before relaxing)
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1958438824/plib_pm.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1360937237/main.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1060005641/initialization.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1060005641/interrupts.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1060005641/exceptions.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/864028644/plib_port.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1027182637/plib_clock.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/864081795/plib_nvic.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1883465617/plib_systick.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-impure.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(sbrk.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(fstat.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(isatty.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(lseek.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+
+.debug_info     0x00000000    0x23a86
+ .debug_info    0x00000000     0x151d build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_info    0x0000151d      0x31d build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .debug_info    0x0000183a     0x1371 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .debug_info    0x00002bab      0x56c build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_info    0x00003117     0x1182 build/Trustify/production/_ext/1360937237/main.o
+ .debug_info    0x00004299     0x1293 build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_info    0x0000552c     0x157e build/Trustify/production/_ext/1060005641/interrupts.o
+ .debug_info    0x00006aaa      0xeef build/Trustify/production/_ext/1060005641/exceptions.o
+ .debug_info    0x00007999      0xf02 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_info    0x0000889b      0x830 build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_info    0x000090cb      0xb23 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .debug_info    0x00009bee      0x35b build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_info    0x00009f49      0x66d build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_info    0x0000a5b6      0xfe9 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_info    0x0000b59f      0x238 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_info    0x0000b7d7      0x3ab c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .debug_info    0x0000bb82     0x1275 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+ .debug_info    0x0000cdf7     0x1205 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+ .debug_info    0x0000dffc     0x1180 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+ .debug_info    0x0000f17c     0x12ea c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+ .debug_info    0x00010466     0x14c2 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+ .debug_info    0x00011928     0x11fb c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+ .debug_info    0x00012b23      0xd84 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-impure.o)
+ .debug_info    0x000138a7     0x1537 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+ .debug_info    0x00014dde     0x153a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+ .debug_info    0x00016318     0x113f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+ .debug_info    0x00017457     0x11ec c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_info    0x00018643      0xe74 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+ .debug_info    0x000194b7     0x13ac c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+ .debug_info    0x0001a863      0xe93 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+ .debug_info    0x0001b6f6      0xe42 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+ .debug_info    0x0001c538     0x113d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+ .debug_info    0x0001d675      0xe4f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+ .debug_info    0x0001e4c4      0xe7a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+ .debug_info    0x0001f33e      0xdc1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+ .debug_info    0x000200ff      0xe91 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+ .debug_info    0x00020f90      0xf77 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .debug_info    0x00021f07      0x21f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+ .debug_info    0x00022126      0x21f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+ .debug_info    0x00022345      0x221 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+ .debug_info    0x00022566      0x21f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+ .debug_info    0x00022785      0x21d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+ .debug_info    0x000229a2      0x21b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(sbrk.o)
+ .debug_info    0x00022bbd      0x21f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+ .debug_info    0x00022ddc      0x21c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+ .debug_info    0x00022ff8      0x21c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(fstat.o)
+ .debug_info    0x00023214      0x21e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(isatty.o)
+ .debug_info    0x00023432      0x21c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(lseek.o)
+ .debug_info    0x0002364e      0x21b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+ .debug_info    0x00023869      0x21d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+
+.debug_abbrev   0x00000000     0x3eae
+ .debug_abbrev  0x00000000      0x26a build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_abbrev  0x0000026a       0x39 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .debug_abbrev  0x000002a3      0x286 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .debug_abbrev  0x00000529       0xd4 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_abbrev  0x000005fd      0x1f0 build/Trustify/production/_ext/1360937237/main.o
+ .debug_abbrev  0x000007ed      0x1b3 build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_abbrev  0x000009a0      0x1a0 build/Trustify/production/_ext/1060005641/interrupts.o
+ .debug_abbrev  0x00000b40      0x17e build/Trustify/production/_ext/1060005641/exceptions.o
+ .debug_abbrev  0x00000cbe      0x1f9 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_abbrev  0x00000eb7      0x133 build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_abbrev  0x00000fea       0xe9 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .debug_abbrev  0x000010d3       0x68 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_abbrev  0x0000113b      0x15a build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_abbrev  0x00001295      0x1d4 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_abbrev  0x00001469       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_abbrev  0x00001493       0xa3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .debug_abbrev  0x00001536      0x24a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+ .debug_abbrev  0x00001780      0x208 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+ .debug_abbrev  0x00001988      0x1ec c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+ .debug_abbrev  0x00001b74      0x263 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+ .debug_abbrev  0x00001dd7      0x295 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+ .debug_abbrev  0x0000206c      0x1b0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+ .debug_abbrev  0x0000221c      0x131 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-impure.o)
+ .debug_abbrev  0x0000234d      0x268 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+ .debug_abbrev  0x000025b5      0x170 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+ .debug_abbrev  0x00002725      0x24f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+ .debug_abbrev  0x00002974      0x286 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_abbrev  0x00002bfa      0x1a8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x00002da2      0x224 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+ .debug_abbrev  0x00002fc6      0x198 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+ .debug_abbrev  0x0000315e      0x193 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+ .debug_abbrev  0x000032f1      0x193 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+ .debug_abbrev  0x00003484      0x193 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+ .debug_abbrev  0x00003617      0x193 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+ .debug_abbrev  0x000037aa      0x165 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+ .debug_abbrev  0x0000390f      0x193 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+ .debug_abbrev  0x00003aa2      0x1ea c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .debug_abbrev  0x00003c8c       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+ .debug_abbrev  0x00003cb6       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+ .debug_abbrev  0x00003ce0       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+ .debug_abbrev  0x00003d0a       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+ .debug_abbrev  0x00003d34       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+ .debug_abbrev  0x00003d5e       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(sbrk.o)
+ .debug_abbrev  0x00003d88       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+ .debug_abbrev  0x00003db2       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+ .debug_abbrev  0x00003ddc       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(fstat.o)
+ .debug_abbrev  0x00003e06       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(isatty.o)
+ .debug_abbrev  0x00003e30       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(lseek.o)
+ .debug_abbrev  0x00003e5a       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+ .debug_abbrev  0x00003e84       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+
+.debug_loc      0x00000000     0x25e5
+ .debug_loc     0x00000000      0x17c build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_loc     0x0000017c      0x5b8 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .debug_loc     0x00000734       0x7e build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_loc     0x000007b2       0x20 build/Trustify/production/_ext/1360937237/main.o
+ .debug_loc     0x000007d2       0x41 build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_loc     0x00000813       0x9f build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_loc     0x000008b2       0x84 build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_loc     0x00000936       0x7a build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_loc     0x000009b0       0x20 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_loc     0x000009d0       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_loc     0x000009e4       0x72 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .debug_loc     0x00000a56      0x249 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+ .debug_loc     0x00000c9f      0x194 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+ .debug_loc     0x00000e33       0x9e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+ .debug_loc     0x00000ed1      0x30b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+ .debug_loc     0x000011dc      0x2b8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+ .debug_loc     0x00001494      0x1d9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+ .debug_loc     0x0000166d      0x260 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+ .debug_loc     0x000018cd       0x72 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+ .debug_loc     0x0000193f      0x108 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+ .debug_loc     0x00001a47      0x242 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_loc     0x00001c89       0x6d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+ .debug_loc     0x00001cf6      0x382 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+ .debug_loc     0x00002078       0xc5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+ .debug_loc     0x0000213d       0x6d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+ .debug_loc     0x000021aa       0x99 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+ .debug_loc     0x00002243       0x6d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+ .debug_loc     0x000022b0       0xc5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+ .debug_loc     0x00002375       0xc5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+ .debug_loc     0x0000243a      0x10b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .debug_loc     0x00002545       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+ .debug_loc     0x00002559       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+ .debug_loc     0x0000256d       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+ .debug_loc     0x00002581       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+ .debug_loc     0x00002595       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+ .debug_loc     0x000025a9       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+ .debug_loc     0x000025bd       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+ .debug_loc     0x000025d1       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+
+.debug_aranges  0x00000000      0x828
+ .debug_aranges
+                0x00000000       0x60 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_aranges
+                0x00000060       0x20 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .debug_aranges
+                0x00000080       0x70 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .debug_aranges
+                0x000000f0       0x40 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_aranges
+                0x00000130       0x20 build/Trustify/production/_ext/1360937237/main.o
+ .debug_aranges
+                0x00000150       0x20 build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_aranges
+                0x00000170       0x20 build/Trustify/production/_ext/1060005641/interrupts.o
+ .debug_aranges
+                0x00000190       0x48 build/Trustify/production/_ext/1060005641/exceptions.o
+ .debug_aranges
+                0x000001d8       0x28 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_aranges
+                0x00000200       0x60 build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_aranges
+                0x00000260       0x20 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .debug_aranges
+                0x00000280       0x20 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_aranges
+                0x000002a0       0x70 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_aranges
+                0x00000310       0x20 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_aranges
+                0x00000330       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_aranges
+                0x00000350       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .debug_aranges
+                0x00000370       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+ .debug_aranges
+                0x00000398       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+ .debug_aranges
+                0x000003c0       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x000003e0       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+ .debug_aranges
+                0x00000410       0x48 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+ .debug_aranges
+                0x00000458       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x00000480       0x18 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000498       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x000004c0       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+ .debug_aranges
+                0x000004e0       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+ .debug_aranges
+                0x00000500       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_aranges
+                0x00000520       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x00000540       0x40 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+ .debug_aranges
+                0x00000580       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+ .debug_aranges
+                0x000005a0       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+ .debug_aranges
+                0x000005c0       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+ .debug_aranges
+                0x000005e0       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+ .debug_aranges
+                0x00000600       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+ .debug_aranges
+                0x00000620       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+ .debug_aranges
+                0x00000640       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+ .debug_aranges
+                0x00000660       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .debug_aranges
+                0x00000688       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+ .debug_aranges
+                0x000006a8       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+ .debug_aranges
+                0x000006c8       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+ .debug_aranges
+                0x000006e8       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+ .debug_aranges
+                0x00000708       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+ .debug_aranges
+                0x00000728       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(sbrk.o)
+ .debug_aranges
+                0x00000748       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+ .debug_aranges
+                0x00000768       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+ .debug_aranges
+                0x00000788       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(fstat.o)
+ .debug_aranges
+                0x000007a8       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(isatty.o)
+ .debug_aranges
+                0x000007c8       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(lseek.o)
+ .debug_aranges
+                0x000007e8       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+ .debug_aranges
+                0x00000808       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+
+.debug_ranges   0x00000000      0x690
+ .debug_ranges  0x00000000       0x50 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_ranges  0x00000050       0x10 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .debug_ranges  0x00000060       0x60 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .debug_ranges  0x000000c0       0x30 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_ranges  0x000000f0       0x10 build/Trustify/production/_ext/1360937237/main.o
+ .debug_ranges  0x00000100       0x10 build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_ranges  0x00000110       0x10 build/Trustify/production/_ext/1060005641/interrupts.o
+ .debug_ranges  0x00000120       0x38 build/Trustify/production/_ext/1060005641/exceptions.o
+ .debug_ranges  0x00000158       0x18 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_ranges  0x00000170       0x50 build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_ranges  0x000001c0       0x10 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .debug_ranges  0x000001d0       0x10 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_ranges  0x000001e0       0x60 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_ranges  0x00000240       0x10 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_ranges  0x00000250       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_ranges  0x00000260       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .debug_ranges  0x00000270       0x70 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+ .debug_ranges  0x000002e0       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+ .debug_ranges  0x00000310       0x38 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+ .debug_ranges  0x00000348       0x68 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+ .debug_ranges  0x000003b0       0x38 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+ .debug_ranges  0x000003e8       0x18 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+ .debug_ranges  0x00000400       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+ .debug_ranges  0x00000430       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+ .debug_ranges  0x00000440       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+ .debug_ranges  0x00000468       0x60 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_ranges  0x000004c8       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+ .debug_ranges  0x000004d8       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+ .debug_ranges  0x00000508       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+ .debug_ranges  0x00000518       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+ .debug_ranges  0x00000528       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+ .debug_ranges  0x00000538       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+ .debug_ranges  0x00000548       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+ .debug_ranges  0x00000558       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+ .debug_ranges  0x00000568       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+ .debug_ranges  0x00000578       0x48 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .debug_ranges  0x000005c0       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+ .debug_ranges  0x000005d0       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+ .debug_ranges  0x000005e0       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+ .debug_ranges  0x000005f0       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+ .debug_ranges  0x00000600       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+ .debug_ranges  0x00000610       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(sbrk.o)
+ .debug_ranges  0x00000620       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+ .debug_ranges  0x00000630       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+ .debug_ranges  0x00000640       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(fstat.o)
+ .debug_ranges  0x00000650       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(isatty.o)
+ .debug_ranges  0x00000660       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(lseek.o)
+ .debug_ranges  0x00000670       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+ .debug_ranges  0x00000680       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+
+.debug_line     0x00000000     0x54b0
+ .debug_line    0x00000000      0x25b build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_line    0x0000025b       0x65 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .debug_line    0x000002c0      0x2c5 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .debug_line    0x00000585      0x19c build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_line    0x00000721      0x231 build/Trustify/production/_ext/1360937237/main.o
+ .debug_line    0x00000952      0x36b build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_line    0x00000cbd      0x18a build/Trustify/production/_ext/1060005641/interrupts.o
+ .debug_line    0x00000e47      0x14c build/Trustify/production/_ext/1060005641/exceptions.o
+ .debug_line    0x00000f93      0x1bf build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_line    0x00001152      0x1d0 build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_line    0x00001322      0x175 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .debug_line    0x00001497       0xa7 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_line    0x0000153e      0x20e build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_line    0x0000174c      0x1e2 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_line    0x0000192e       0xe3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_line    0x00001a11      0x118 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .debug_line    0x00001b29      0x2a6 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+ .debug_line    0x00001dcf      0x27d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+ .debug_line    0x0000204c      0x26b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+ .debug_line    0x000022b7      0x2d3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+ .debug_line    0x0000258a      0x315 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+ .debug_line    0x0000289f      0x269 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+ .debug_line    0x00002b08      0x17e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-impure.o)
+ .debug_line    0x00002c86      0x328 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+ .debug_line    0x00002fae      0x2ad c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+ .debug_line    0x0000325b      0x1d4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+ .debug_line    0x0000342f      0x259 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_line    0x00003688      0x214 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+ .debug_line    0x0000389c      0x2a3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+ .debug_line    0x00003b3f      0x211 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+ .debug_line    0x00003d50      0x215 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+ .debug_line    0x00003f65      0x2c3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+ .debug_line    0x00004228      0x216 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+ .debug_line    0x0000443e      0x211 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+ .debug_line    0x0000464f      0x18e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+ .debug_line    0x000047dd      0x210 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+ .debug_line    0x000049ed      0x23f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .debug_line    0x00004c2c       0x9d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+ .debug_line    0x00004cc9       0x9d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+ .debug_line    0x00004d66       0x9e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+ .debug_line    0x00004e04       0x9d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+ .debug_line    0x00004ea1       0x9c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+ .debug_line    0x00004f3d       0xa4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(sbrk.o)
+ .debug_line    0x00004fe1       0x9d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+ .debug_line    0x0000507e       0x9b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+ .debug_line    0x00005119      0x104 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(fstat.o)
+ .debug_line    0x0000521d       0x9c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(isatty.o)
+ .debug_line    0x000052b9       0x9b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(lseek.o)
+ .debug_line    0x00005354       0xae c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+ .debug_line    0x00005402       0xae c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+
+.debug_str      0x00000000      0x5d6
+ .debug_str     0x00000000       0x16 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_str     0x00000016        0x0 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .debug_str     0x00000016      0x11f build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .debug_str     0x00000135        0x0 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_str     0x00000135       0x40 build/Trustify/production/_ext/1360937237/main.o
+ .debug_str     0x00000175       0xa2 build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_str     0x00000217        0xe build/Trustify/production/_ext/1060005641/interrupts.o
+ .debug_str     0x00000225        0xe build/Trustify/production/_ext/1060005641/exceptions.o
+ .debug_str     0x00000233       0x35 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_str     0x00000268        0xb build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_str     0x00000273       0x1e build/Trustify/production/_ext/1027182637/plib_clock.o
+ .debug_str     0x00000291        0x0 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_str     0x00000291        0x9 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_str     0x0000029a       0x79 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_str     0x00000313        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_str     0x00000313        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .debug_str     0x00000313       0x1f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+ .debug_str     0x00000332       0x1f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+ .debug_str     0x00000351       0x16 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+ .debug_str     0x00000367       0x16 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+ .debug_str     0x0000037d       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+ .debug_str     0x0000039d        0x9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+ .debug_str     0x000003a6        0x9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-impure.o)
+ .debug_str     0x000003af       0x31 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+ .debug_str     0x000003e0      0x114 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+ .debug_str     0x000004f4       0x27 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+ .debug_str     0x0000051b       0x31 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_str     0x0000054c        0x9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+ .debug_str     0x00000555       0x2b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+ .debug_str     0x00000580       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+ .debug_str     0x00000590       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+ .debug_str     0x000005a0        0x9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+ .debug_str     0x000005a9        0x9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+ .debug_str     0x000005b2        0x9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+ .debug_str     0x000005bb        0x9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+ .debug_str     0x000005c4        0x9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+ .debug_str     0x000005cd        0x9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .debug_str     0x000005d6        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+ .debug_str     0x000005d6        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+ .debug_str     0x000005d6        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+ .debug_str     0x000005d6        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+ .debug_str     0x000005d6        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+ .debug_str     0x000005d6        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(sbrk.o)
+ .debug_str     0x000005d6        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+ .debug_str     0x000005d6        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+ .debug_str     0x000005d6        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(fstat.o)
+ .debug_str     0x000005d6        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(isatty.o)
+ .debug_str     0x000005d6        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(lseek.o)
+ .debug_str     0x000005d6        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+ .debug_str     0x000005d6        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+
+.debug_frame    0x00000000      0xc78
+ .debug_frame   0x00000000       0xb0 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_frame   0x000000b0       0x20 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .debug_frame   0x000000d0       0xe4 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+ .debug_frame   0x000001b4       0x60 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_frame   0x00000214       0x2c build/Trustify/production/_ext/1360937237/main.o
+ .debug_frame   0x00000240       0x28 build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_frame   0x00000268       0x20 build/Trustify/production/_ext/1060005641/interrupts.o
+ .debug_frame   0x00000288       0x70 build/Trustify/production/_ext/1060005641/exceptions.o
+ .debug_frame   0x000002f8       0x40 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_frame   0x00000338       0xa0 build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_frame   0x000003d8       0x20 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .debug_frame   0x000003f8       0x20 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_frame   0x00000418       0xc8 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_frame   0x000004e0       0x28 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_frame   0x00000508       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_frame   0x00000534       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000560       0x44 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+ .debug_frame   0x000005a4       0x48 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x000005ec       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x00000618       0x68 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+ .debug_frame   0x00000680       0xb0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+ .debug_frame   0x00000730       0x58 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00000788       0x54 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x000007dc       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x000007fc       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000828       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000854       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000880       0x90 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+ .debug_frame   0x00000910       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+ .debug_frame   0x0000093c       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+ .debug_frame   0x00000968       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x00000994       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x000009c0       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x000009ec       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000a1c       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+ .debug_frame   0x00000a48       0x48 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x00000a90       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+ .debug_frame   0x00000ab8       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+ .debug_frame   0x00000ae0       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+ .debug_frame   0x00000b08       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+ .debug_frame   0x00000b30       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+ .debug_frame   0x00000b58       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(sbrk.o)
+ .debug_frame   0x00000b78       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+ .debug_frame   0x00000ba0       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+ .debug_frame   0x00000bc0       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(fstat.o)
+ .debug_frame   0x00000be0       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(isatty.o)
+ .debug_frame   0x00000c00       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(lseek.o)
+ .debug_frame   0x00000c20       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+ .debug_frame   0x00000c4c       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+
+.stack          0x200002b8      0x100
+ .stack         0x200002b8      0x100 stack
+
+.data.impure_data%1
+                0x20000010       0x60
+ .data.impure_data
+                0x20000010       0x60 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-impure.o)
+
+.bss%2          0x20000070       0x1c
+ .bss           0x20000070       0x1c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+
+.data._impure_ptr%3
+                0x2000008c        0x4
+ .data._impure_ptr
+                0x2000008c        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-impure.o)
+                0x2000008c                _impure_ptr
+
+.bss.__malloc_free_list%4
+                0x20000090        0x4
+ .bss.__malloc_free_list
+                0x20000090        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+                0x20000090                __malloc_free_list
+
+.bss.__malloc_sbrk_start%5
+                0x20000094        0x4
+ .bss.__malloc_sbrk_start
+                0x20000094        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+                0x20000094                __malloc_sbrk_start
+
+.bss%6          0x20000098        0x4
+ .bss           0x20000098        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(sbrk.o)
+
+.eh_frame%z1    0x00000000        0x0
+ .eh_frame      0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+
+.text.__sflush_r%7
+                0x00000114      0x110
+ .text.__sflush_r
+                0x00000114      0x110 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+                0x00000114                __sflush_r
+
+.text.__swsetup_r%8
+                0x00000224       0xe4
+ .text.__swsetup_r
+                0x00000224       0xe4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wsetup.o)
+                0x00000224                __swsetup_r
+
+.text._puts_r%9
+                0x00000308       0xd4
+ .text._puts_r  0x00000308       0xd4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+                0x00000308                _puts_r
+
+.dinit%10       0x000003dc       0xd0
+ .dinit         0x000003dc       0xd0 data_init
+
+.text.__swbuf_r%11
+                0x000004ac       0xc0
+ .text.__swbuf_r
+                0x000004ac       0xc0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-wbuf.o)
+                0x000004ac                __swbuf_r
+
+.text._malloc_r%12
+                0x0000056c       0xbc
+ .text._malloc_r
+                0x0000056c       0xbc c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000056c                _malloc_r
+
+.text.CLOCK_Initialize%13
+                0x00000628       0xb0
+ .text.CLOCK_Initialize
+                0x00000628       0xb0 build/Trustify/production/_ext/1027182637/plib_clock.o
+                0x00000628                CLOCK_Initialize
+
+.text._free_r%14
+                0x000006d8       0x8c
+ .text._free_r  0x000006d8       0x8c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-nano-freer.o)
+                0x000006d8                _free_r
+
+.text.__pic32c_data_initialization%15
+                0x00000764       0x88
+ .text.__pic32c_data_initialization
+                0x00000764       0x88 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+                0x00000764                __pic32c_data_initialization
+
+.text.__sfp%16  0x000007ec       0x78
+ .text.__sfp    0x000007ec       0x78 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+                0x000007ec                __sfp
+
+.text.__smakebuf_r%17
+                0x00000864       0x78
+ .text.__smakebuf_r
+                0x00000864       0x78 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+                0x00000864                __smakebuf_r
+
+.text.__sinit%18
+                0x000008dc       0x64
+ .text.__sinit  0x000008dc       0x64 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+                0x000008dc                __sinit
+
+.text._fflush_r%19
+                0x00000940       0x54
+ .text._fflush_r
+                0x00000940       0x54 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fflush.o)
+                0x00000940                _fflush_r
+
+.text.Reset_Handler%20
+                0x00000994       0x50
+ .text.Reset_Handler
+                0x00000994       0x50 build/Trustify/production/_ext/1060005641/startup_xc32.o
+                0x00000994                Reset_Handler
+
+.text.__swhatbuf_r%21
+                0x000009e4       0x50
+ .text.__swhatbuf_r
+                0x000009e4       0x50 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-makebuf.o)
+                0x000009e4                __swhatbuf_r
+
+.text.__libc_init_array%22
+                0x00000a34       0x48
+ .text.__libc_init_array
+                0x00000a34       0x48 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+                0x00000a34                __libc_init_array
+
+.text.std.isra.0%23
+                0x00000a7c       0x48
+ .text.std.isra.0
+                0x00000a7c       0x48 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+
+.text%24        0x00000ac4       0x40
+ .text          0x00000ac4       0x40 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+
+.text._fwalk_reent%25
+                0x00000b04       0x40
+ .text._fwalk_reent
+                0x00000b04       0x40 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fwalk.o)
+                0x00000b04                _fwalk_reent
+
+.text.SERCOM0_USART_Read%26
+                0x00000b44       0x3c
+ .text.SERCOM0_USART_Read
+                0x00000b44       0x3c build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+                0x00000b44                SERCOM0_USART_Read
+
+.text.SERCOM0_USART_Initialize%27
+                0x00000b80       0x38
+ .text.SERCOM0_USART_Initialize
+                0x00000b80       0x38 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+                0x00000b80                SERCOM0_USART_Initialize
+
+.text.__swrite%28
+                0x00000bb8       0x38
+ .text.__swrite
+                0x00000bb8       0x38 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+                0x00000bb8                __swrite
+
+.text.write%29  0x00000bf0       0x38
+ .text.write    0x00000bf0       0x38 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(write.o)
+                0x00000bf0                write
+
+.text.SERCOM0_USART_ErrorGet%30
+                0x00000c28       0x30
+ .text.SERCOM0_USART_ErrorGet
+                0x00000c28       0x30 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+                0x00000c28                SERCOM0_USART_ErrorGet
+
+.text.SERCOM0_USART_Write%31
+                0x00000c58       0x30
+ .text.SERCOM0_USART_Write
+                0x00000c58       0x30 build/Trustify/production/_ext/1247632078/plib_sercom0_usart.o
+                0x00000c58                SERCOM0_USART_Write
+
+.text.SYS_Initialize%32
+                0x00000c88       0x30
+ .text.SYS_Initialize
+                0x00000c88       0x30 build/Trustify/production/_ext/1060005641/initialization.o
+                0x00000c88                SYS_Initialize
+
+.text.SYSTICK_DelayMs%33
+                0x00000cb8       0x30
+ .text.SYSTICK_DelayMs
+                0x00000cb8       0x30 build/Trustify/production/_ext/1883465617/plib_systick.o
+                0x00000cb8                SYSTICK_DelayMs
+
+.text.main%34   0x00000ce8       0x2c
+ .text.main     0x00000ce8       0x2c build/Trustify/production/_ext/1360937237/main.o
+                0x00000ce8                main
+
+.text.__sfmoreglue%35
+                0x00000d14       0x2c
+ .text.__sfmoreglue
+                0x00000d14       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+                0x00000d14                __sfmoreglue
+
+.text.__sseek%36
+                0x00000d40       0x2c
+ .text.__sseek  0x00000d40       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+                0x00000d40                __sseek
+
+.text._sbrk%37  0x00000d6c       0x2c
+ .text._sbrk    0x00000d6c       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(sbrk.o)
+                0x00000d6c                _sbrk
+
+.text.__sread%38
+                0x00000d98       0x28
+ .text.__sread  0x00000d98       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+                0x00000d98                __sread
+
+.text.PM_Initialize%39
+                0x00000dc0       0x24
+ .text.PM_Initialize
+                0x00000dc0       0x24 build/Trustify/production/_ext/1958438824/plib_pm.o
+                0x00000dc0                PM_Initialize
+
+.text.SYSTICK_TimerInitialize%40
+                0x00000de4       0x24
+ .text.SYSTICK_TimerInitialize
+                0x00000de4       0x24 build/Trustify/production/_ext/1883465617/plib_systick.o
+                0x00000de4                SYSTICK_TimerInitialize
+
+.text._write_r%41
+                0x00000e08       0x24
+ .text._write_r
+                0x00000e08       0x24 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-writer.o)
+                0x00000e08                _write_r
+
+.text._fstat_r%42
+                0x00000e2c       0x24
+ .text._fstat_r
+                0x00000e2c       0x24 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-fstatr.o)
+                0x00000e2c                _fstat_r
+
+.text._lseek_r%43
+                0x00000e50       0x24
+ .text._lseek_r
+                0x00000e50       0x24 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-lseekr.o)
+                0x00000e50                _lseek_r
+
+.text._read_r%44
+                0x00000e74       0x24
+ .text._read_r  0x00000e74       0x24 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-readr.o)
+                0x00000e74                _read_r
+
+.text.read%45   0x00000e98       0x24
+ .text.read     0x00000e98       0x24 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(read.o)
+                0x00000e98                read
+
+.rodata.__sf_fake_stderr%46
+                0x00000ebc       0x20
+ .rodata.__sf_fake_stderr
+                0x00000ebc       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+                0x00000ebc                __sf_fake_stderr
+
+.rodata.__sf_fake_stdin%47
+                0x00000edc       0x20
+ .rodata.__sf_fake_stdin
+                0x00000edc       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+                0x00000edc                __sf_fake_stdin
+
+.rodata.__sf_fake_stdout%48
+                0x00000efc       0x20
+ .rodata.__sf_fake_stdout
+                0x00000efc       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+                0x00000efc                __sf_fake_stdout
+
+.text._sbrk_r%49
+                0x00000f1c       0x20
+ .text._sbrk_r  0x00000f1c       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-sbrkr.o)
+                0x00000f1c                _sbrk_r
+
+.text._close_r%50
+                0x00000f3c       0x20
+ .text._close_r
+                0x00000f3c       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-closer.o)
+                0x00000f3c                _close_r
+
+.text._isatty_r%51
+                0x00000f5c       0x20
+ .text._isatty_r
+                0x00000f5c       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-isattyr.o)
+                0x00000f5c                _isatty_r
+
+.text.PORT_Initialize%52
+                0x00000f7c       0x1c
+ .text.PORT_Initialize
+                0x00000f7c       0x1c build/Trustify/production/_ext/864028644/plib_port.o
+                0x00000f7c                PORT_Initialize
+
+.text.SysTick_Handler%53
+                0x00000f98       0x1c
+ .text.SysTick_Handler
+                0x00000f98       0x1c build/Trustify/production/_ext/1883465617/plib_systick.o
+                0x00000f98                SysTick_Handler
+
+.text._mon_getc%54
+                0x00000fb4       0x1a
+ .text._mon_getc
+                0x00000fb4       0x1a build/Trustify/production/_ext/874600305/xc32_monitor.o
+                0x00000fb4                _mon_getc
+
+.text._mon_putc%55
+                0x00000fce       0x1a
+ .text._mon_putc
+                0x00000fce       0x1a build/Trustify/production/_ext/874600305/xc32_monitor.o
+                0x00000fce                _mon_putc
+
+.text.SYSTICK_TimerStart%56
+                0x00000fe8       0x14
+ .text.SYSTICK_TimerStart
+                0x00000fe8       0x14 build/Trustify/production/_ext/1883465617/plib_systick.o
+                0x00000fe8                SYSTICK_TimerStart
+
+.text.puts%57   0x00000ffc       0x14
+ .text.puts     0x00000ffc       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-puts.o)
+                0x00000ffc                puts
+
+.text.NVMCTRL_Initialize%58
+                0x00001010       0x10
+ .text.NVMCTRL_Initialize
+                0x00001010       0x10 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+                0x00001010                NVMCTRL_Initialize
+
+.rodata%59      0x00001020       0x10
+ .rodata        0x00001020       0x10 build/Trustify/production/_ext/1360937237/main.o
+
+.text._cleanup_r%60
+                0x00001030       0x10
+ .text._cleanup_r
+                0x00001030       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-findfp.o)
+                0x00001030                _cleanup_r
+
+.text.memset%61
+                0x00001040       0x10
+ .text.memset   0x00001040       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memset.o)
+                0x00001040                memset
+
+.text.__sclose%62
+                0x00001050        0xc
+ .text.__sclose
+                0x00001050        0xc c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-stdio.o)
+                0x00001050                __sclose
+
+.text.fstat%63  0x0000105c        0xc
+ .text.fstat    0x0000105c        0xc c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(fstat.o)
+                0x0000105c                fstat
+
+.text.NVIC_Initialize%64
+                0x00001068        0x8
+ .text.NVIC_Initialize
+                0x00001068        0x8 build/Trustify/production/_ext/864081795/plib_nvic.o
+                0x00001068                NVIC_Initialize
+
+.text._close%65
+                0x00001070        0x8
+ .text._close   0x00001070        0x8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_close.o)
+                0x00001070                _close
+
+.text._fstat%66
+                0x00001078        0x8
+ .text._fstat   0x00001078        0x8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_fstat.o)
+                0x00001078                _fstat
+
+.text._isatty%67
+                0x00001080        0x8
+ .text._isatty  0x00001080        0x8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_isatty.o)
+                0x00001080                _isatty
+
+.text._lseek%68
+                0x00001088        0x8
+ .text._lseek   0x00001088        0x8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_lseek.o)
+                0x00001088                _lseek
+
+.text._read%69  0x00001090        0x8
+ .text._read    0x00001090        0x8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_read.o)
+                0x00001090                _read
+
+.text._write%70
+                0x00001098        0x8
+ .text._write   0x00001098        0x8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(_write.o)
+                0x00001098                _write
+
+.text.close%71  0x000010a0        0x8
+ .text.close    0x000010a0        0x8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(close.o)
+                0x000010a0                close
+
+.rodata._global_impure_ptr%72
+                0x000010a8        0x4
+ .rodata._global_impure_ptr
+                0x000010a8        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-impure.o)
+                0x000010a8                _global_impure_ptr
+
+.text.isatty%73
+                0x000010ac        0x4
+ .text.isatty   0x000010ac        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(isatty.o)
+                0x000010ac                isatty
+
+.text.lseek%74  0x000010b0        0x4
+ .text.lseek    0x000010b0        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(lseek.o)
+                0x000010b0                lseek
+
+.text.EVSYS_Initialize%75
+                0x000010b4        0x2
+ .text.EVSYS_Initialize
+                0x000010b4        0x2 build/Trustify/production/_ext/1025033151/plib_evsys.o
+                0x000010b4                EVSYS_Initialize
+
+.text.Dummy_Handler%76
+                0x000010b6        0x2
+ .text.Dummy_Handler
+                0x000010b6        0x2 build/Trustify/production/_ext/1060005641/interrupts.o
+                0x000010b6                SVCall_Handler
+                0x000010b6                SERCOM0_2_Handler
+                0x000010b6                EVSYS_0_Handler
+                0x000010b6                TRNG_Handler
+                0x000010b6                ADC_RESRDY_Handler
+                0x000010b6                TC2_Handler
+                0x000010b6                AC_Handler
+                0x000010b6                DMAC_OTHER_Handler
+                0x000010b6                PendSV_Handler
+                0x000010b6                EVSYS_3_Handler
+                0x000010b6                SERCOM0_OTHER_Handler
+                0x000010b6                EIC_3_Handler
+                0x000010b6                SERCOM0_0_Handler
+                0x000010b6                RTC_Handler
+                0x000010b6                SERCOM1_OTHER_Handler
+                0x000010b6                EVSYS_1_Handler
+                0x000010b6                DMAC_0_Handler
+                0x000010b6                WDT_Handler
+                0x000010b6                TRAM_Handler
+                0x000010b6                EVSYS_NSCHK_Handler
+                0x000010b6                TC1_Handler
+                0x000010b6                DAC_EMPTY_Handler
+                0x000010b6                PAC_Handler
+                0x000010b6                EIC_0_Handler
+                0x000010b6                Dummy_Handler
+                0x000010b6                DMAC_2_Handler
+                0x000010b6                SERCOM0_1_Handler
+                0x000010b6                DMAC_1_Handler
+                0x000010b6                SERCOM1_1_Handler
+                0x000010b6                EIC_2_Handler
+                0x000010b6                NVMCTRL_Handler
+                0x000010b6                PORT_Handler
+                0x000010b6                SYSTEM_Handler
+                0x000010b6                SERCOM1_0_Handler
+                0x000010b6                SERCOM2_1_Handler
+                0x000010b6                SERCOM1_2_Handler
+                0x000010b6                EIC_1_Handler
+                0x000010b6                SERCOM2_2_Handler
+                0x000010b6                PTC_Handler
+                0x000010b6                EVSYS_2_Handler
+                0x000010b6                SERCOM2_OTHER_Handler
+                0x000010b6                FREQM_Handler
+                0x000010b6                DAC_UNDERRUN_A_Handler
+                0x000010b6                TC0_Handler
+                0x000010b6                EIC_OTHER_Handler
+                0x000010b6                ADC_OTHER_Handler
+                0x000010b6                DMAC_3_Handler
+                0x000010b6                SERCOM2_0_Handler
+
+.text.NonMaskableInt_Handler%77
+                0x000010b8        0x2
+ .text.NonMaskableInt_Handler
+                0x000010b8        0x2 build/Trustify/production/_ext/1060005641/exceptions.o
+                0x000010b8                NonMaskableInt_Handler
+
+.text.HardFault_Handler%78
+                0x000010ba        0x2
+ .text.HardFault_Handler
+                0x000010ba        0x2 build/Trustify/production/_ext/1060005641/exceptions.o
+                0x000010ba                HardFault_Handler
+
+.text.__malloc_lock%79
+                0x000010bc        0x2
+ .text.__malloc_lock
+                0x000010bc        0x2 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+                0x000010bc                __malloc_lock
+
+.text.__malloc_unlock%80
+                0x000010be        0x2
+ .text.__malloc_unlock
+                0x000010be        0x2 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-mlock.o)
+                0x000010be                __malloc_unlock
