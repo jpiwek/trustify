@@ -40,12 +40,14 @@ build/Trustify/production/_ext/874600305/xc32_monitor.o:  \
  ../src/packs/ATSAML11E16A_DFP/pio/saml11e16a.h  \
  ../src/config/Trustify/device_cache.h  \
  ../src/config/Trustify/toolchain_specifics.h  \
+ ../src/config/Trustify/peripheral/sercom/i2c_master/plib_sercom1_i2c_master.h  \
+ ../src/config/Trustify/peripheral/sercom/i2c_master/plib_sercom_i2c_master_common.h  \
  ../src/config/Trustify/peripheral/evsys/plib_evsys.h  \
  ../src/config/Trustify/peripheral/sercom/usart/plib_sercom0_usart.h  \
  ../src/config/Trustify/peripheral/sercom/usart/plib_sercom_usart_common.h  \
- ../src/config/Trustify/peripheral/pm/plib_pm.h  \
  ../src/config/Trustify/peripheral/port/plib_port.h  \
  ../src/config/Trustify/peripheral/clock/plib_clock.h  \
  ../src/config/Trustify/peripheral/nvic/plib_nvic.h  \
  ../src/config/Trustify/peripheral/systick/plib_systick.h  \
+ ../src/config/Trustify/peripheral/pm/plib_pm.h  \
  ../src/config/Trustify/peripheral/eic/plib_eic.h 

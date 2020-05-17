@@ -40,12 +40,34 @@ build/Trustify/production/_ext/1360937237/main.o:  \
  ../src/packs/ATSAML11E16A_DFP/pio/saml11e16a.h  \
  ../src/config/Trustify/device_cache.h  \
  ../src/config/Trustify/toolchain_specifics.h  \
+ ../src/config/Trustify/peripheral/sercom/i2c_master/plib_sercom1_i2c_master.h  \
+ ../src/config/Trustify/peripheral/sercom/i2c_master/plib_sercom_i2c_master_common.h  \
  ../src/config/Trustify/peripheral/evsys/plib_evsys.h  \
  ../src/config/Trustify/peripheral/sercom/usart/plib_sercom0_usart.h  \
  ../src/config/Trustify/peripheral/sercom/usart/plib_sercom_usart_common.h  \
- ../src/config/Trustify/peripheral/pm/plib_pm.h  \
  ../src/config/Trustify/peripheral/port/plib_port.h  \
  ../src/config/Trustify/peripheral/clock/plib_clock.h  \
  ../src/config/Trustify/peripheral/nvic/plib_nvic.h  \
  ../src/config/Trustify/peripheral/systick/plib_systick.h  \
- ../src/config/Trustify/peripheral/eic/plib_eic.h 
+ ../src/config/Trustify/peripheral/pm/plib_pm.h  \
+ ../src/config/Trustify/peripheral/eic/plib_eic.h  \
+ ../src/config/Trustify/library/cryptoauthlib/cryptoauthlib.h  \
+ ../src/config/Trustify/library/cryptoauthlib/atca_config.h  \
+ ../src/config/Trustify/library/cryptoauthlib/hal/atca_hal.h  \
+ ../src/config/Trustify/library/cryptoauthlib/atca_config.h  \
+ ../src/config/Trustify/library/cryptoauthlib/atca_status.h  \
+ ../src/config/Trustify/library/cryptoauthlib/atca_bool.h  \
+ ../src/config/Trustify/library/cryptoauthlib/atca_iface.h  \
+ ../src/config/Trustify/library/cryptoauthlib/atca_command.h  \
+ ../src/config/Trustify/library/cryptoauthlib/atca_compiler.h  \
+ ../src/config/Trustify/library/cryptoauthlib/atca_status.h  \
+ ../src/config/Trustify/library/cryptoauthlib/atca_devtypes.h  \
+ ../src/config/Trustify/library/cryptoauthlib/hal/atca_start_config.h  \
+ ../src/config/Trustify/library/cryptoauthlib/hal/atca_start_iface.h  \
+ ../src/config/Trustify/library/cryptoauthlib/atca_device.h  \
+ ../src/config/Trustify/library/cryptoauthlib/atca_iface.h  \
+ ../src/config/Trustify/library/cryptoauthlib/atca_cfgs.h  \
+ ../src/config/Trustify/library/cryptoauthlib/basic/atca_basic.h  \
+ ../src/config/Trustify/library/cryptoauthlib/crypto/atca_crypto_sw_sha2.h  \
+ ../src/config/Trustify/library/cryptoauthlib/crypto/atca_crypto_sw.h  \
+ ../src/config/Trustify/library/cryptoauthlib/basic/atca_helpers.h 

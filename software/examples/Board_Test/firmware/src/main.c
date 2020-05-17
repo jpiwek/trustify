@@ -41,6 +41,7 @@
 #include <stdbool.h>                    // Defines true
 #include <stdlib.h>                     // Defines EXIT_FAILURE
 #include "definitions.h"                // SYS function prototypes
+#include "cryptoauthlib.h"
 
 /******************************************************************************
 * Module Preprocessor Macros
@@ -56,6 +57,18 @@
 * Module Variable Definitions
 *******************************************************************************/
 
+/** \brief Holding interface configuration of atecc608 */
+extern ATCAIfaceCfg atecc608a_0_init_data;
+
+/** \brief holding the serial number of atecc608 */
+uint8_t sernum[9];
+
+/** \brief holding the serial number of atecc608 in hex format and ascii characters */
+char displayStr[ATCA_SERIAL_NUM_SIZE * 3];
+
+/** \brief holding the size of the ascii array */
+size_t displen = sizeof(displayStr);
+
 /******************************************************************************
 * Function Prototypes
 *******************************************************************************/
@@ -67,6 +80,8 @@ void EIC_Pin5Callback(uintptr_t context);
 *******************************************************************************/
 int main ( void )
 {
+    ATCA_STATUS status;
+    
     /* Initialize all modules */
     SYS_Initialize ( NULL );
     
@@ -83,8 +98,33 @@ int main ( void )
     printf("support communities and device manufacturers on re-thinking\n");
     printf("security strategies for their future product roadmap\n\n");
     printf("Trustify team: Janus, Mathias, and Hai\n\n");
+    printf("Board Test application\n\n");
     printf("Version: %02d.%02d\n", VERSION, SUB_VERSION);
     printf("**************************************************************\n");
+    
+    //Print the usage
+    printf("\n\nPlease verify if LED is blinking and you receive a seiral number from ATECC608\n");
+    printf("\n\nPlease press SW2 to test switch functionality\n");
+    
+    //Testing ATECC608
+    printf("\n\nTesting ATECC608\n");
+    //Initialize the interface to ATECC608
+    status = atcab_init(&atecc608a_0_init_data);
+    if (ATCA_SUCCESS == status)
+    {
+        //If success, read serial number and convert to ascii to display on terminal
+        status = atcab_read_serial_number(sernum);
+        atcab_bin2hex(sernum, 9, displayStr, &displen);
+        printf("Serial Number of the Device: %s\r\n\n", displayStr);
+    }
+    else
+    {
+        //Print error message when failed
+        printf("ATECC608 could not be initialized\n");
+    }
+    
+    //Release the device
+    atcab_release();
     
     while ( true )
     {
@@ -99,6 +139,8 @@ int main ( void )
 
 void EIC_Pin5Callback(uintptr_t context)
 {
+    //Print message on terminal
+    //Only demo, pls dont use printf on your real application!!!
     printf("switch is pressed!\n");
 }
 
