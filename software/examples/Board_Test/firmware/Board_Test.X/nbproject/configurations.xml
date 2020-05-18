@@ -316,8 +316,8 @@
         <platform>3</platform>
       </toolsSet>
       <packs>
-        <pack name="SAML11_DFP" vendor="Microchip" version="3.1.75"/>
         <pack name="CMSIS" vendor="ARM" version="5.4.0"/>
+        <pack name="SAML11_DFP" vendor="Microchip" version="3.1.75"/>
       </packs>
       <compileType>
         <linkerTool>
@@ -1018,6 +1018,8 @@
                   value="${memories.instruction.ram.ranges}"/>
         <property key="memories.programmemory" value="true"/>
         <property key="memories.programmemory.ranges" value="0-ffff"/>
+        <property key="programmerToGoFilePath"
+                  value="C:/Users/haing/Desktop/trustify/software/examples/Board_Test/firmware/Board_Test.X/debug/Trustify/Board_Test_ptg"/>
         <property key="programoptions.donoteraseauxmem" value="false"/>
         <property key="programoptions.eraseb4program" value="true"/>
         <property key="programoptions.pgmentry.voltage" value="low"/>

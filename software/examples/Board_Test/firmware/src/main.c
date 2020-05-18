@@ -103,7 +103,7 @@ int main ( void )
     printf("**************************************************************\n");
     
     //Print the usage
-    printf("\n\nPlease verify if LED is blinking and you receive a seiral number from ATECC608\n");
+    printf("\n\nPlease verify if LED is blinking and you receive a serial number from ATECC608\n");
     printf("\n\nPlease press SW2 to test switch functionality\n");
     
     //Testing ATECC608
