@@ -10,6 +10,20 @@ Makers developed a secure platform during COVID-19 period to support communities
   - *Programmer / Debugger*: Microchip low cost SNAP / PicKIT4
   - *Expansion Connectors*: Mikroelektronika Click / Microchip Xplained
   - *Interfaces*: FTDI USB to UART Bridge for debugging and powering the board
+ 
+ **Target Markets**
+------------------------
+  - Smart Sensors
+  - Medical 
+  - Access Control
+  - Touch & HMI
+  - Portable applications
+  - Crypto Wallets
+
+**Examples**
+------------------------
+The "Board Test" example is built with Microchip MPLAB-X & Harmony v3. It gives you a good starting point for your own project.
+*Go to example* - [Link](https://github.com/jpiwek/trustify/tree/master/software/examples/Board_Test)
 
 **Details**
 ------------------------
