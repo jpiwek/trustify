@@ -26,11 +26,11 @@ Connect the board as the following picture:
 
 Start MPLAB X and open this application
 
-![open project](/images/open_project.png?raw=true)
+![open project](images/open_project.png?raw=true)
 
 Compile and flash the application into the Trustify board
 
-![compile_flash](/images/compile_flash.png?raw=true)
+![compile_flash](images/compile_flash.png?raw=true)
 
 Start terminal program with the following configuration
 
@@ -41,11 +41,11 @@ Start terminal program with the following configuration
 
 Press the reset button on the board (SW1), you should see the following message on the terminal:
 
-![terminal 1](/images/terminal_1.png?raw=true)
+![terminal 1](images/terminal_1.png?raw=true)
 
 Press the user button (SW2), you should see the following message on the terminal
 
-![terminal 2](/images/terminal_2.png?raw=true)
+![terminal 2](images/terminal_2.png?raw=true)
 
 You can observe that the LED should blink every one second
 
@@ -55,34 +55,34 @@ As mention in the introduction section. The peripherals on the board, which are 
 
 To activate the tool, in MPLAB, choose Tools --> Embedded --> MBLAB Harmony 3 Configurator  
 
-![MHC3_open](/images/MHC3_open.png)
+![MHC3_open](images/MHC3_open.png)
 
 
 After the MHC v3 is opened, you see a component diagram. From the diagram, there are 3 groups handling the interrupt, the UART and the secure element
 
-![component](/images/component.png)
+![component](images/component.png)
 
 
 The interrupt is configured as follow:
 
-![interrupt](/images/interrupt.png)
+![interrupt](images/interrupt.png)
 
 The UART is configured as follow:
 
-![UART](/images/UART.png)
+![UART](images/UART.png)
 
 The secure element is configured as follow:
 
-![SE](/images/SE.png)
+![SE](images/SE.png)
 
 The pinout for the Trustify board is following:
 
-![pinout](/images/pinout.png)
+![pinout](images/pinout.png)
 
 Last but not least, we have to activate the system tick, in order to use the delay function and the interrupt service routine:
 
-![systick](/images/systick.png)
+![systick](images/systick.png)
 
-![picture](/images/sys_interrupt.png)
+![picture](images/sys_interrupt.png)
 
 ## The End
