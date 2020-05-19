@@ -131,6 +131,7 @@ void SYS_Initialize ( void* data )
 	SYSTICK_TimerInitialize();
     EIC_Initialize();
 
+	BSP_Initialize();
 
 
 

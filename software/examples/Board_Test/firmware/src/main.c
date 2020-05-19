@@ -3,7 +3,7 @@
 * Filename              :   main.c
 * Author                :   Hai Nguyen
 * Origin Date           :   18.05.2020
-* Version               :   1.0.0
+* Version               :   01.00
 * Compiler              :   XC32
 * Target                :   ATSAML11E16A
 * Notes                 :   None
@@ -24,13 +24,33 @@
 /*************** SOURCE REVISION LOG *****************************************
 *
 *  Date         Version     Author      Description 
-*  18.05.2020   1.0.0       Hai N.      Initial Release.
+*  18.05.2020   00.99       Hai N.      Initial Release.
+*  19.05.2020   01.00       Hai N.      using bsp in MHC3 and add command to 
+*                                       linker file to configure memory layout
 *
 *******************************************************************************/
 /** @file   main.c
  *  @brief  this file contain the main application. This application serves as a 
  *          functional test for the Trustify board. It also shows the user how 
  *          to setup on board peripherals using Harmony Configurator. 
+ *  When building a secure application, the following preprocessor definitions 
+ *  affect the linker script.
+ *  SECURE (required): Use the memory layout for a secure application.
+ *  BOOTPROT=size (optional): Defines the boot protections size in bytes. 
+ *                            The default value is 0 if not provided.
+ *  AS=size (recommended): Defines the flash application secure size, in bytes. 
+ *                         Defaults to 50% of ROM is not provided.
+ *  ANSC=size (recommended): Defines the flash application non-secure callable 
+ *                           size, in bytes. Defaults to 0 if not provided.
+ *  RS=size (recommended): Defines the size of secure RAM, in bytes. 
+ *                         Defaults to 50% of RAM if not provided.
+ * 
+ *  This application is built following this configuration:
+ *      AS = 63000  -- almost all of SAML11 Flash memory
+ *      RS = 16000  -- almost all of SAML11 SRAM memory
+ *      ANSC = 1024 -- modest non-secure  callable
+ * 
+ *  Command to add to the linker file: -DAS=65000,-DRS=16300,-DANSC=1024,
  */
 
 /******************************************************************************
