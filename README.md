@@ -22,9 +22,9 @@ Makers developed a secure platform during COVID-19 period to support communities
 
 **Examples**
 ------------------------
-The "Board Test" example is built with Microchip MPLAB-X & Harmony v3. It gives you a good starting point for your own project.
-*Go to example* - [Link](https://github.com/jpiwek/trustify/tree/master/software/examples/Board_Test)
-
+All examples are built with Microchip MPLAB-X & Harmony v3. Those give you a good starting point for your own projects.
+  - "Board Test": [Go to example](https://github.com/jpiwek/trustify/tree/master/software/examples/Board_Test)
+  - ATECC608 Secure Element Certificate Chain Verfy - This example show you the methods and the procedure to read and to verify the TNG (trust and Go) certificate in the secure element: [Go to example](https://github.com/jpiwek/trustify/tree/master/software/examples/Board_Test)
 **Details**
 ------------------------
 
