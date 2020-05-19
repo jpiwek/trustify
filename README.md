@@ -22,7 +22,7 @@ Makers developed a secure platform during COVID-19 period to support communities
 
 **Examples**
 ------------------------
-The "Board Teset" example is built with Microchip MPLAB-X & Harmony v3. It gives you a good starting point for your own project.
+The "Board Test" example is built with Microchip MPLAB-X & Harmony v3. It gives you a good starting point for your own project.
 *Go to example* - [Link](https://github.com/jpiwek/trustify/tree/master/software/examples/Board_Test)
 
 **Details**
