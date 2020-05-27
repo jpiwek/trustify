@@ -98,6 +98,7 @@ uint8_t g_device_cert[1024];
 * Function Prototypes
 *******************************************************************************/
 void EIC_Pin5Callback(uintptr_t context);
+int main (void);
 ATCA_STATUS print_cert_pem_format(uint8_t* g_cert, size_t g_cert_size);
 ATCA_STATUS tng_get_signer_cert_def(const atcacert_def_t** cert_def);
 ATCA_STATUS verify_chain_cert();
@@ -105,7 +106,7 @@ ATCA_STATUS verify_chain_cert();
 /******************************************************************************
 * Function Definitions
 *******************************************************************************/
-int main ( void )
+int main (void)
 {
     ATCA_STATUS status;
     uint8_t g_root_cert[1024];

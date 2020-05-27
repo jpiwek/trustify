@@ -1,0 +1,1192 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+                              build/Trustify/production/_ext/1060005641/startup_xc32.o (__pic32c_data_initialization)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(cmse_nonsecure_call.o)
+                              build/Trustify/production/_ext/1360937237/main.o (__gnu_cmse_nonsecure_call)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+                              build/Trustify/production/_ext/1060005641/startup_xc32.o (__libc_init_array)
+c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+                              build/Trustify/production/_ext/2117940715/plib_nvmctrl.o (memcpy)
+
+Allocating common symbols
+Common symbol       size              file
+
+eicCallbackObject   0x60              build/Trustify/production/_ext/582071996/plib_eic.o
+systick             0xc               build/Trustify/production/_ext/1883465617/plib_systick.o
+
+Microchip PIC32 Memory-Usage Report
+
+ROM Program-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.vectors                         0           0xf4         244   
+.text                         0xf4           0x20          32  App's exec code 
+.text.CLOCK_Initialize       0x114           0xb8         184   
+.text.__pic32c_data_ini      0x1cc           0x88         136   
+.text.EIC_Initialize         0x254           0x5c          92   
+.text.Reset_Handler          0x2b0           0x50          80   
+.text.__libc_init_array      0x300           0x48          72   
+.text                        0x348           0x40          64  App's exec code 
+.dinit                       0x388           0x40          64   
+.text.PORT_Initialize        0x3c8           0x3c          60   
+.text.SYS_Initialize         0x404           0x34          52   
+.text.main                   0x438           0x34          52   
+.text                        0x46c           0x32          50  App's exec code 
+.text.EVSYS_Initialize       0x49e            0x2           2   
+.text.NVIC_Initialize        0x4a0           0x30          48   
+.text.SYSTICK_TimerInit      0x4d0           0x24          36   
+.text.PM_Initialize          0x4f4           0x24          36   
+.text.secure_Toggle          0x518           0x1c          28   
+.text.secure_Systick_In      0x534           0x1c          28   
+.text.SysTick_Handler        0x550           0x1c          28   
+.text.secure_add             0x56c           0x1a          26   
+.text.secure_Systick_Ge      0x586           0x1a          26   
+.text.Systick_Init           0x5a0           0x14          20   
+.text.SYSTICK_TimerStar      0x5b4           0x14          20   
+.text.NVMCTRL_Initializ      0x5c8           0x10          16   
+.text.SystemTick_Callba      0x5d8           0x10          16   
+.text.Systick_GetElapse      0x5e8           0x10          16   
+.text.Toggle                 0x5f8            0xc          12   
+.text.SYSTICK_TimerCall      0x604            0xc          12   
+.text.BSP_Initialize         0x610            0xc          12   
+.text.add                    0x61c            0x4           4   
+.text.Dummy_Handler          0x620            0x2           2   
+.text.NonMaskableInt_Ha      0x622            0x2           2   
+.text.HardFault_Handler      0x624            0x2           2   
+.gnu.sgstubs                0x7e00           0x20          32   
+      Total ROM used  :       0x646        1606  4.9% of 0x8000
+        --------------------------------------------------------------------------
+         Total Program Memory used  :       0x646        1606  4.9% of 0x8000
+        --------------------------------------------------------------------------
+
+
+RAM Data-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.bss                    0x20000000           0x6c         108  Uninitialized data 
+.bss                    0x2000006c           0x1c          28  Uninitialized data 
+.bss.count              0x20000088            0x4           4   
+         Total RAM used  :        0x8c         140  1.7% of 0x2000
+        --------------------------------------------------------------------------
+            Total Data Memory used  :        0x8c         140  1.7% of 0x2000
+        --------------------------------------------------------------------------
+
+
+Dynamic Data-Memory Reservation
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+heap                    0x20000090              0           0  Reserved for heap 
+stack                   0x200000a8         0x1f48        8008  Reserved for stack 
+
+        --------------------------------------------------------------------------
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crti.o
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crti.o
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crti.o
+ .data          0x00000000        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_CacheInvalidate
+                0x00000000       0x10 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_Read
+                0x00000000       0x10 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_PageWrite
+                0x00000000       0x3c build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_RowErase
+                0x00000000       0x2c build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_ErrorGet
+                0x00000000       0x10 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_IsBusy
+                0x00000000       0x14 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_RegionLock
+                0x00000000       0x14 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text.NVMCTRL_RegionUnlock
+                0x00000000       0x1c build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1060005641/interrupts.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1060005641/interrupts.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1060005641/interrupts.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1060005641/initialization.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1060005641/initialization.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1060005641/initialization.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1360937237/main.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1360937237/main.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1360937237/main.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1903470166/veneer.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1903470166/veneer.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1903470166/veneer.o
+ .debug_info    0x00000000      0x37c build/Trustify/production/_ext/1903470166/veneer.o
+ .debug_abbrev  0x00000000       0xac build/Trustify/production/_ext/1903470166/veneer.o
+ .debug_loc     0x00000000       0xc2 build/Trustify/production/_ext/1903470166/veneer.o
+ .debug_aranges
+                0x00000000       0x38 build/Trustify/production/_ext/1903470166/veneer.o
+ .debug_ranges  0x00000000       0x28 build/Trustify/production/_ext/1903470166/veneer.o
+ .debug_line    0x00000000       0x8c build/Trustify/production/_ext/1903470166/veneer.o
+ .debug_str     0x00000000       0x1f build/Trustify/production/_ext/1903470166/veneer.o
+ .comment       0x00000000       0x3d build/Trustify/production/_ext/1903470166/veneer.o
+ .debug_frame   0x00000000       0x70 build/Trustify/production/_ext/1903470166/veneer.o
+ .ARM.attributes
+                0x00000000       0x32 build/Trustify/production/_ext/1903470166/veneer.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1903470166/secure.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1903470166/secure.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1903470166/secure.o
+ .debug_info    0x00000000     0x1254 build/Trustify/production/_ext/1903470166/secure.o
+ .debug_abbrev  0x00000000      0x265 build/Trustify/production/_ext/1903470166/secure.o
+ .debug_loc     0x00000000       0x41 build/Trustify/production/_ext/1903470166/secure.o
+ .debug_aranges
+                0x00000000       0x40 build/Trustify/production/_ext/1903470166/secure.o
+ .debug_ranges  0x00000000       0x30 build/Trustify/production/_ext/1903470166/secure.o
+ .debug_line    0x00000000      0x24b build/Trustify/production/_ext/1903470166/secure.o
+ .debug_str     0x00000000       0x3a build/Trustify/production/_ext/1903470166/secure.o
+ .comment       0x00000000       0x3d build/Trustify/production/_ext/1903470166/secure.o
+ .debug_frame   0x00000000       0x68 build/Trustify/production/_ext/1903470166/secure.o
+ .ARM.attributes
+                0x00000000       0x32 build/Trustify/production/_ext/1903470166/secure.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .text._mon_getc
+                0x00000000        0x4 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .text._mon_putc
+                0x00000000        0x2 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_info    0x00000000      0x2c8 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_abbrev  0x00000000       0x75 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_loc     0x00000000       0x21 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_aranges
+                0x00000000       0x28 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_ranges  0x00000000       0x18 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_line    0x00000000       0x6c build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_str     0x00000000        0x0 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .comment       0x00000000       0x3d build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .debug_frame   0x00000000       0x30 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .ARM.attributes
+                0x00000000       0x32 build/Trustify/production/_ext/874600305/xc32_monitor.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1060005641/exceptions.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1060005641/exceptions.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1060005641/exceptions.o
+ .text.DebugMonitor_Handler
+                0x00000000        0x2 build/Trustify/production/_ext/1060005641/exceptions.o
+ .text.MemoryManagement_Handler
+                0x00000000        0x2 build/Trustify/production/_ext/1060005641/exceptions.o
+ .text.BusFault_Handler
+                0x00000000        0x2 build/Trustify/production/_ext/1060005641/exceptions.o
+ .text.UsageFault_Handler
+                0x00000000        0x2 build/Trustify/production/_ext/1060005641/exceptions.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/864028644/plib_port.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/864028644/plib_port.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupRead
+                0x00000000        0x4 build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupWrite
+                0x00000000        0xc build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupLatchRead
+                0x00000000        0x4 build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupSet
+                0x00000000        0x4 build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupClear
+                0x00000000        0x4 build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupToggle
+                0x00000000        0x4 build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupInputEnable
+                0x00000000        0x4 build/Trustify/production/_ext/864028644/plib_port.o
+ .text.PORT_GroupOutputEnable
+                0x00000000        0x4 build/Trustify/production/_ext/864028644/plib_port.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text.SYSTICK_TimerRestart
+                0x00000000       0x1c build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text.SYSTICK_TimerStop
+                0x00000000       0x10 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text.SYSTICK_TimerPeriodSet
+                0x00000000        0xc build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text.SYSTICK_TimerPeriodGet
+                0x00000000        0xc build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text.SYSTICK_TimerCounterGet
+                0x00000000        0xc build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text.SYSTICK_TimerFrequencyGet
+                0x00000000        0x8 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text.SYSTICK_DelayMs
+                0x00000000       0x34 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .text._exit    0x00000000        0x2 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .debug_info    0x00000000      0xea5 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .debug_abbrev  0x00000000      0x1a1 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .debug_aranges
+                0x00000000       0x20 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .debug_ranges  0x00000000       0x10 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .debug_line    0x00000000      0x13e build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .debug_str     0x00000000        0xe build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .comment       0x00000000       0x3d build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .debug_frame   0x00000000       0x20 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .ARM.attributes
+                0x00000000       0x32 build/Trustify/production/_ext/1060005641/libc_syscalls.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .text.PM_IdleModeEnter
+                0x00000000       0x18 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .text.PM_StandbyModeEnter
+                0x00000000       0x18 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .text.PM_OffModeEnter
+                0x00000000       0x18 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .text.PM_ConfigurePerformanceLevel
+                0x00000000       0x3c build/Trustify/production/_ext/1958438824/plib_pm.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/582071996/plib_eic.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/582071996/plib_eic.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/582071996/plib_eic.o
+ .text.EIC_InterruptEnable
+                0x00000000       0x10 build/Trustify/production/_ext/582071996/plib_eic.o
+ .text.EIC_InterruptDisable
+                0x00000000       0x10 build/Trustify/production/_ext/582071996/plib_eic.o
+ .text.EIC_CallbackRegister
+                0x00000000       0x28 build/Trustify/production/_ext/582071996/plib_eic.o
+ .text          0x00000000        0x0 build/Trustify/production/_ext/1542791463/bsp.o
+ .data          0x00000000        0x0 build/Trustify/production/_ext/1542791463/bsp.o
+ .bss           0x00000000        0x0 build/Trustify/production/_ext/1542791463/bsp.o
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(cmse_nonsecure_call.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(cmse_nonsecure_call.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x00000000       0x12 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_info    0x00000000      0xdfb c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_abbrev  0x00000000      0x17c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_loc     0x00000000       0xde c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_aranges
+                0x00000000       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_ranges  0x00000000       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_line    0x00000000      0x21c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_str     0x00000000        0x9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .comment       0x00000000       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtend.o
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtend.o
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtend.o
+ .eh_frame      0x00000000        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtend.o
+ .comment       0x00000000       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtend.o
+ .ARM.attributes
+                0x00000000       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtend.o
+ .text          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtn.o
+ .data          0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtn.o
+ .bss           0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x00000000         0x00008000         xrl
+rom_nsc          0x00007e00         0x00000200         xrl
+ram              0x20000000         0x00002000         xw !r
+config_00804000  0x00804000         0x00000004
+config_00804004  0x00804004         0x00000004
+config_00804008  0x00804008         0x00000004
+config_0080400C  0x0080400c         0x00000004
+config_00804010  0x00804010         0x00000004
+config_00804014  0x00804014         0x00000004
+config_00804018  0x00804018         0x00000004
+config_0080401C  0x0080401c         0x00000004
+config_0080C000  0x0080c000         0x00000004
+config_0080C004  0x0080c004         0x00000004
+config_0080C008  0x0080c008         0x00000004
+config_0080C010  0x0080c010         0x00000004
+config_0080C014  0x0080c014         0x00000004
+config_0080C018  0x0080c018         0x00000004
+config_0080C01C  0x0080c01c         0x00000004
+config_0080C020  0x0080c020         0x00000004
+config_0080C024  0x0080c024         0x00000004
+config_0080C028  0x0080c028         0x00000004
+config_0080C02C  0x0080c02c         0x00000004
+config_0080C030  0x0080c030         0x00000004
+config_0080C034  0x0080c034         0x00000004
+config_0080C038  0x0080c038         0x00000004
+config_0080C03C  0x0080c03c         0x00000004
+config_0080C040  0x0080c040         0x00000004
+config_0080C044  0x0080c044         0x00000004
+config_0080C048  0x0080c048         0x00000004
+config_0080C04C  0x0080c04c         0x00000004
+config_0080C050  0x0080c050         0x00000004
+config_0080C054  0x0080c054         0x00000004
+config_0080C058  0x0080c058         0x00000004
+config_0080C05C  0x0080c05c         0x00000004
+config_0080C060  0x0080c060         0x00000004
+config_0080C064  0x0080c064         0x00000004
+config_0080C068  0x0080c068         0x00000004
+config_0080C06C  0x0080c06c         0x00000004
+config_0080C0E0  0x0080c0e0         0x00000004
+config_0080C0E4  0x0080c0e4         0x00000004
+config_0080C0E8  0x0080c0e8         0x00000004
+config_0080C0EC  0x0080c0ec         0x00000004
+config_0080C0F0  0x0080c0f0         0x00000004
+config_0080C0F4  0x0080c0f4         0x00000004
+config_0080C0F8  0x0080c0f8         0x00000004
+config_0080C0FC  0x0080c0fc         0x00000004
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crti.o
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+LOAD build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+LOAD build/Trustify/production/_ext/1025033151/plib_evsys.o
+LOAD build/Trustify/production/_ext/1060005641/interrupts.o
+LOAD build/Trustify/production/_ext/1060005641/initialization.o
+LOAD build/Trustify/production/_ext/1360937237/main.o
+LOAD build/Trustify/production/_ext/1903470166/veneer.o
+LOAD build/Trustify/production/_ext/1903470166/secure.o
+LOAD build/Trustify/production/_ext/874600305/xc32_monitor.o
+LOAD build/Trustify/production/_ext/1060005641/exceptions.o
+LOAD build/Trustify/production/_ext/864028644/plib_port.o
+LOAD build/Trustify/production/_ext/1027182637/plib_clock.o
+LOAD build/Trustify/production/_ext/864081795/plib_nvic.o
+LOAD build/Trustify/production/_ext/1883465617/plib_systick.o
+LOAD build/Trustify/production/_ext/1060005641/startup_xc32.o
+LOAD build/Trustify/production/_ext/1060005641/libc_syscalls.o
+LOAD build/Trustify/production/_ext/1958438824/plib_pm.o
+LOAD build/Trustify/production/_ext/582071996/plib_eic.o
+LOAD build/Trustify/production/_ext/1542791463/bsp.o
+                0x00000001                __MPLAB_BUILD = 0x1
+                0x00000000                _min_heap_size = 0x0
+START GROUP
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libm_nano.a
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a
+END GROUP
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtend.o
+LOAD c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtn.o
+                0x00008000                __rom_end = (ORIGIN (rom) + LENGTH (rom))
+                0x00008000                __rom_nsc_end = (ORIGIN (rom_nsc) + LENGTH (rom_nsc))
+                0x20002000                __ram_end = (ORIGIN (ram) + LENGTH (ram))
+
+.config_00804000
+                0x00804000        0x4
+ *(.config_00804000)
+ .config_00804000
+                0x00804000        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_00804004
+                0x00804004        0x4
+ *(.config_00804004)
+ .config_00804004
+                0x00804004        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_00804008
+                0x00804008        0x4
+ *(.config_00804008)
+ .config_00804008
+                0x00804008        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080400C
+                0x0080400c        0x4
+ *(.config_0080400C)
+ .config_0080400C
+                0x0080400c        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_00804010
+                0x00804010        0x4
+ *(.config_00804010)
+ .config_00804010
+                0x00804010        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_00804014
+                0x00804014        0x4
+ *(.config_00804014)
+ .config_00804014
+                0x00804014        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_00804018
+                0x00804018        0x4
+ *(.config_00804018)
+ .config_00804018
+                0x00804018        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080401C
+                0x0080401c        0x4
+ *(.config_0080401C)
+ .config_0080401C
+                0x0080401c        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C000
+                0x0080c000        0x4
+ *(.config_0080C000)
+ .config_0080C000
+                0x0080c000        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C004
+                0x0080c004        0x4
+ *(.config_0080C004)
+ .config_0080C004
+                0x0080c004        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C008
+                0x0080c008        0x4
+ *(.config_0080C008)
+ .config_0080C008
+                0x0080c008        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C010
+                0x0080c010        0x4
+ *(.config_0080C010)
+ .config_0080C010
+                0x0080c010        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C014
+                0x0080c014        0x4
+ *(.config_0080C014)
+ .config_0080C014
+                0x0080c014        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C018
+                0x0080c018        0x4
+ *(.config_0080C018)
+ .config_0080C018
+                0x0080c018        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C01C
+                0x0080c01c        0x4
+ *(.config_0080C01C)
+ .config_0080C01C
+                0x0080c01c        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C020
+                0x0080c020        0x4
+ *(.config_0080C020)
+ .config_0080C020
+                0x0080c020        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C024
+                0x0080c024        0x4
+ *(.config_0080C024)
+ .config_0080C024
+                0x0080c024        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C028
+                0x0080c028        0x4
+ *(.config_0080C028)
+ .config_0080C028
+                0x0080c028        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C02C
+                0x0080c02c        0x4
+ *(.config_0080C02C)
+ .config_0080C02C
+                0x0080c02c        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C030
+                0x0080c030        0x4
+ *(.config_0080C030)
+ .config_0080C030
+                0x0080c030        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C034
+                0x0080c034        0x4
+ *(.config_0080C034)
+ .config_0080C034
+                0x0080c034        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C038
+                0x0080c038        0x4
+ *(.config_0080C038)
+ .config_0080C038
+                0x0080c038        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C03C
+                0x0080c03c        0x4
+ *(.config_0080C03C)
+ .config_0080C03C
+                0x0080c03c        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C040
+                0x0080c040        0x4
+ *(.config_0080C040)
+ .config_0080C040
+                0x0080c040        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C044
+                0x0080c044        0x4
+ *(.config_0080C044)
+ .config_0080C044
+                0x0080c044        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C048
+                0x0080c048        0x4
+ *(.config_0080C048)
+ .config_0080C048
+                0x0080c048        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C04C
+                0x0080c04c        0x4
+ *(.config_0080C04C)
+ .config_0080C04C
+                0x0080c04c        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C050
+                0x0080c050        0x4
+ *(.config_0080C050)
+ .config_0080C050
+                0x0080c050        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C054
+                0x0080c054        0x4
+ *(.config_0080C054)
+ .config_0080C054
+                0x0080c054        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C058
+                0x0080c058        0x4
+ *(.config_0080C058)
+ .config_0080C058
+                0x0080c058        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C05C
+                0x0080c05c        0x4
+ *(.config_0080C05C)
+ .config_0080C05C
+                0x0080c05c        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C060
+                0x0080c060        0x4
+ *(.config_0080C060)
+ .config_0080C060
+                0x0080c060        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C064
+                0x0080c064        0x4
+ *(.config_0080C064)
+ .config_0080C064
+                0x0080c064        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C068
+                0x0080c068        0x4
+ *(.config_0080C068)
+ .config_0080C068
+                0x0080c068        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C06C
+                0x0080c06c        0x4
+ *(.config_0080C06C)
+ .config_0080C06C
+                0x0080c06c        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C0E0
+                0x0080c0e0        0x4
+ *(.config_0080C0E0)
+ .config_0080C0E0
+                0x0080c0e0        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C0E4
+                0x0080c0e4        0x4
+ *(.config_0080C0E4)
+ .config_0080C0E4
+                0x0080c0e4        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C0E8
+                0x0080c0e8        0x4
+ *(.config_0080C0E8)
+ .config_0080C0E8
+                0x0080c0e8        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C0EC
+                0x0080c0ec        0x4
+ *(.config_0080C0EC)
+ .config_0080C0EC
+                0x0080c0ec        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C0F0
+                0x0080c0f0        0x4
+ *(.config_0080C0F0)
+ .config_0080C0F0
+                0x0080c0f0        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C0F4
+                0x0080c0f4        0x4
+ *(.config_0080C0F4)
+ .config_0080C0F4
+                0x0080c0f4        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C0F8
+                0x0080c0f8        0x4
+ *(.config_0080C0F8)
+ .config_0080C0F8
+                0x0080c0f8        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.config_0080C0FC
+                0x0080c0fc        0x4
+ *(.config_0080C0FC)
+ .config_0080C0FC
+                0x0080c0fc        0x4 build/Trustify/production/_ext/1060005641/initialization.o
+
+.vectors        0x00000000       0xf4
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                _sfixed = .
+ *(.vectors .vectors.* .vectors_default .vectors_default.*)
+ .vectors       0x00000000       0xf4 build/Trustify/production/_ext/1060005641/interrupts.o
+                0x00000000                exception_table
+ *(.isr_vector)
+ *(.reset*)
+ *(.after_vectors)
+
+.text           0x000000f4       0x20
+                0x000000f4                . = ALIGN (0x4)
+ *(.glue_7t)
+ .glue_7t       0x000000f4        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x000000f4        0x0 linker stubs
+ *(.gnu.linkonce.r.*)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000000f4                . = ALIGN (0x4)
+ *(.init)
+ .init          0x000000f4        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crti.o
+                0x000000f4                _init
+ .init          0x000000f8        0x8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtn.o
+                0x00000100                . = ALIGN (0x4)
+                0x00000100                __preinit_array_start = .
+ *(.preinit_array)
+                0x00000100                __preinit_array_end = .
+                0x00000100                . = ALIGN (0x4)
+                0x00000100                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00000100        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+                0x00000104                __init_array_end = .
+                0x00000104                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *crtend.o(.ctors)
+                0x00000104                . = ALIGN (0x4)
+ *(.fini)
+ .fini          0x00000104        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crti.o
+                0x00000104                _fini
+ .fini          0x00000108        0x8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtn.o
+                0x00000110                . = ALIGN (0x4)
+                0x00000110                __fini_array_start = .
+ *(.fini_array)
+ .fini_array    0x00000110        0x4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x00000114                __fini_array_end = .
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *crtend.o(.dtors)
+                0x00000114                . = ALIGN (0x4)
+                0x00000114                _efixed = .
+                [!provide]                PROVIDE (__exidx_start, .)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                [!provide]                PROVIDE (__exidx_end, .)
+                0x00000114                . = ALIGN (0x4)
+                0x00000114                _etext = .
+                0x00000114                . = ALIGN (0x4)
+
+.gnu.sgstubs    0x00007e00       0x20
+                0x00007e00                _ssgstubs = .
+ .gnu.sgstubs.__stub
+                0x00007e00       0x20 linker stubs
+                0x00007e00                secure_Systick_Init
+                0x00007e08                secure_Systick_GetElapse
+                0x00007e10                secure_add
+                0x00007e18                secure_Toggle
+
+.bss            0x20000000       0x6c
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __bss_start__ = .
+                0x20000000                _sbss = .
+                0x20000000                _szero = .
+ *(COMMON)
+ COMMON         0x20000000        0xc build/Trustify/production/_ext/1883465617/plib_systick.o
+                0x20000000                systick
+ COMMON         0x2000000c       0x60 build/Trustify/production/_ext/582071996/plib_eic.o
+                0x2000000c                eicCallbackObject
+                0x2000006c                . = ALIGN (0x4)
+                0x2000006c                __bss_end__ = .
+                0x2000006c                _ebss = .
+                0x2000006c                _ezero = .
+                0x2000006c                . = ALIGN (0x4)
+                0x2000006c                _end = .
+                0x20001fff                _ram_end_ = ((ORIGIN (ram) + LENGTH (ram)) - 0x1)
+OUTPUT(dist/Trustify/production/TrustZone_Bringup_Secure.X.production.elf elf32-littlearm)
+LOAD stack
+LOAD data_init
+
+.ARM.attributes
+                0x00000000       0x2c
+ .ARM.attributes
+                0x00000000       0x22 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crti.o
+ .ARM.attributes
+                0x00000022       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+ .ARM.attributes
+                0x00000052       0x32 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .ARM.attributes
+                0x00000084       0x32 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .ARM.attributes
+                0x000000b6       0x32 build/Trustify/production/_ext/1060005641/interrupts.o
+ .ARM.attributes
+                0x000000e8       0x32 build/Trustify/production/_ext/1060005641/initialization.o
+ .ARM.attributes
+                0x0000011a       0x32 build/Trustify/production/_ext/1360937237/main.o
+ .ARM.attributes
+                0x0000014c       0x32 build/Trustify/production/_ext/1060005641/exceptions.o
+ .ARM.attributes
+                0x0000017e       0x32 build/Trustify/production/_ext/864028644/plib_port.o
+ .ARM.attributes
+                0x000001b0       0x32 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .ARM.attributes
+                0x000001e2       0x32 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .ARM.attributes
+                0x00000214       0x32 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .ARM.attributes
+                0x00000246       0x32 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .ARM.attributes
+                0x00000278       0x32 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .ARM.attributes
+                0x000002aa       0x32 build/Trustify/production/_ext/582071996/plib_eic.o
+ .ARM.attributes
+                0x000002dc       0x32 build/Trustify/production/_ext/1542791463/bsp.o
+ .ARM.attributes
+                0x0000030e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .ARM.attributes
+                0x0000033e       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(cmse_nonsecure_call.o)
+ .ARM.attributes
+                0x0000035e       0x30 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000038e       0x22 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtn.o
+
+.comment        0x00000000       0x3c
+ .comment       0x00000000       0x3c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+                                 0x3d (size before relaxing)
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1060005641/interrupts.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1060005641/initialization.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1360937237/main.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1060005641/exceptions.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/864028644/plib_port.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1027182637/plib_clock.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/864081795/plib_nvic.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1883465617/plib_systick.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1958438824/plib_pm.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/582071996/plib_eic.o
+ .comment       0x0000003c       0x3d build/Trustify/production/_ext/1542791463/bsp.o
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+
+.debug_info     0x00000000     0xb818
+ .debug_info    0x00000000     0x154a build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_info    0x0000154a      0x34a build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .debug_info    0x00001894     0x15d1 build/Trustify/production/_ext/1060005641/interrupts.o
+ .debug_info    0x00002e65     0x12e0 build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_info    0x00004145      0xf1e build/Trustify/production/_ext/1360937237/main.o
+ .debug_info    0x00005063      0xf26 build/Trustify/production/_ext/1060005641/exceptions.o
+ .debug_info    0x00005f89      0x85d build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_info    0x000067e6      0xa2d build/Trustify/production/_ext/1027182637/plib_clock.o
+ .debug_info    0x00007213      0xa63 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_info    0x00007c76      0x69a build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_info    0x00008310     0x1020 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_info    0x00009330      0x599 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_info    0x000098c9      0x73a build/Trustify/production/_ext/582071996/plib_eic.o
+ .debug_info    0x0000a003     0x1130 build/Trustify/production/_ext/1542791463/bsp.o
+ .debug_info    0x0000b133      0x238 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_info    0x0000b36b      0x102 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(cmse_nonsecure_call.o)
+ .debug_info    0x0000b46d      0x3ab c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+
+.debug_abbrev   0x00000000     0x14da
+ .debug_abbrev  0x00000000      0x26a build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_abbrev  0x0000026a       0x39 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .debug_abbrev  0x000002a3      0x1a0 build/Trustify/production/_ext/1060005641/interrupts.o
+ .debug_abbrev  0x00000443      0x1c4 build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_abbrev  0x00000607      0x20a build/Trustify/production/_ext/1360937237/main.o
+ .debug_abbrev  0x00000811      0x18f build/Trustify/production/_ext/1060005641/exceptions.o
+ .debug_abbrev  0x000009a0      0x133 build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_abbrev  0x00000ad3       0xe9 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .debug_abbrev  0x00000bbc      0x148 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_abbrev  0x00000d04      0x15a build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_abbrev  0x00000e5e      0x1d4 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_abbrev  0x00001032       0xd4 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_abbrev  0x00001106      0x15d build/Trustify/production/_ext/582071996/plib_eic.o
+ .debug_abbrev  0x00001263      0x196 build/Trustify/production/_ext/1542791463/bsp.o
+ .debug_abbrev  0x000013f9       0x2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_abbrev  0x00001423       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(cmse_nonsecure_call.o)
+ .debug_abbrev  0x00001437       0xa3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+
+.debug_loc      0x00000000      0x501
+ .debug_loc     0x00000000      0x17c build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_loc     0x0000017c       0x41 build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_loc     0x000001bd       0x58 build/Trustify/production/_ext/1360937237/main.o
+ .debug_loc     0x00000215       0x84 build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_loc     0x00000299       0x50 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_loc     0x000002e9       0x7a build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_loc     0x00000363       0x20 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_loc     0x00000383       0x7e build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_loc     0x00000401       0x7a build/Trustify/production/_ext/582071996/plib_eic.o
+ .debug_loc     0x0000047b       0x14 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_loc     0x0000048f       0x72 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+
+.debug_aranges  0x00000000      0x350
+ .debug_aranges
+                0x00000000       0x60 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_aranges
+                0x00000060       0x20 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .debug_aranges
+                0x00000080       0x20 build/Trustify/production/_ext/1060005641/interrupts.o
+ .debug_aranges
+                0x000000a0       0x20 build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_aranges
+                0x000000c0       0x20 build/Trustify/production/_ext/1360937237/main.o
+ .debug_aranges
+                0x000000e0       0x48 build/Trustify/production/_ext/1060005641/exceptions.o
+ .debug_aranges
+                0x00000128       0x60 build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_aranges
+                0x00000188       0x20 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .debug_aranges
+                0x000001a8       0x20 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_aranges
+                0x000001c8       0x70 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_aranges
+                0x00000238       0x20 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_aranges
+                0x00000258       0x40 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_aranges
+                0x00000298       0x38 build/Trustify/production/_ext/582071996/plib_eic.o
+ .debug_aranges
+                0x000002d0       0x20 build/Trustify/production/_ext/1542791463/bsp.o
+ .debug_aranges
+                0x000002f0       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_aranges
+                0x00000310       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(cmse_nonsecure_call.o)
+ .debug_aranges
+                0x00000330       0x20 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+
+.debug_ranges   0x00000000      0x230
+ .debug_ranges  0x00000000       0x50 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_ranges  0x00000050       0x10 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .debug_ranges  0x00000060       0x10 build/Trustify/production/_ext/1060005641/interrupts.o
+ .debug_ranges  0x00000070       0x10 build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_ranges  0x00000080       0x10 build/Trustify/production/_ext/1360937237/main.o
+ .debug_ranges  0x00000090       0x38 build/Trustify/production/_ext/1060005641/exceptions.o
+ .debug_ranges  0x000000c8       0x50 build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_ranges  0x00000118       0x10 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .debug_ranges  0x00000128       0x10 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_ranges  0x00000138       0x60 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_ranges  0x00000198       0x10 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_ranges  0x000001a8       0x30 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_ranges  0x000001d8       0x28 build/Trustify/production/_ext/582071996/plib_eic.o
+ .debug_ranges  0x00000200       0x10 build/Trustify/production/_ext/1542791463/bsp.o
+ .debug_ranges  0x00000210       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_ranges  0x00000220       0x10 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+
+.debug_line     0x00000000     0x1c3f
+ .debug_line    0x00000000      0x25b build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_line    0x0000025b       0x65 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .debug_line    0x000002c0      0x1cb build/Trustify/production/_ext/1060005641/interrupts.o
+ .debug_line    0x0000048b      0x3be build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_line    0x00000849      0x1f2 build/Trustify/production/_ext/1360937237/main.o
+ .debug_line    0x00000a3b      0x18d build/Trustify/production/_ext/1060005641/exceptions.o
+ .debug_line    0x00000bc8      0x1d6 build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_line    0x00000d9e      0x16f build/Trustify/production/_ext/1027182637/plib_clock.o
+ .debug_line    0x00000f0d      0x18e build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_line    0x0000109b      0x20e build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_line    0x000012a9      0x1ee build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_line    0x00001497      0x19c build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_line    0x00001633      0x187 build/Trustify/production/_ext/582071996/plib_eic.o
+ .debug_line    0x000017ba      0x1cd build/Trustify/production/_ext/1542791463/bsp.o
+ .debug_line    0x00001987       0xe3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_line    0x00001a6a       0xbd c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(cmse_nonsecure_call.o)
+ .debug_line    0x00001b27      0x118 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+
+.debug_str      0x00000000      0x1b8
+ .debug_str     0x00000000       0x16 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_str     0x00000016        0x0 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .debug_str     0x00000016        0xe build/Trustify/production/_ext/1060005641/interrupts.o
+ .debug_str     0x00000024       0xa7 build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_str     0x000000cb       0x1d build/Trustify/production/_ext/1360937237/main.o
+ .debug_str     0x000000e8        0xe build/Trustify/production/_ext/1060005641/exceptions.o
+ .debug_str     0x000000f6        0xb build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_str     0x00000101       0x1e build/Trustify/production/_ext/1027182637/plib_clock.o
+ .debug_str     0x0000011f        0x0 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_str     0x0000011f        0x9 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_str     0x00000128       0x79 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_str     0x000001a1        0x0 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_str     0x000001a1        0x9 build/Trustify/production/_ext/582071996/plib_eic.o
+ .debug_str     0x000001aa        0xe build/Trustify/production/_ext/1542791463/bsp.o
+ .debug_str     0x000001b8        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_str     0x000001b8        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+
+.debug_frame    0x00000000      0x4c0
+ .debug_frame   0x00000000       0xb0 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+ .debug_frame   0x000000b0       0x20 build/Trustify/production/_ext/1025033151/plib_evsys.o
+ .debug_frame   0x000000d0       0x20 build/Trustify/production/_ext/1060005641/interrupts.o
+ .debug_frame   0x000000f0       0x28 build/Trustify/production/_ext/1060005641/initialization.o
+ .debug_frame   0x00000118       0x2c build/Trustify/production/_ext/1360937237/main.o
+ .debug_frame   0x00000144       0x70 build/Trustify/production/_ext/1060005641/exceptions.o
+ .debug_frame   0x000001b4       0xa0 build/Trustify/production/_ext/864028644/plib_port.o
+ .debug_frame   0x00000254       0x20 build/Trustify/production/_ext/1027182637/plib_clock.o
+ .debug_frame   0x00000274       0x20 build/Trustify/production/_ext/864081795/plib_nvic.o
+ .debug_frame   0x00000294       0xc8 build/Trustify/production/_ext/1883465617/plib_systick.o
+ .debug_frame   0x0000035c       0x28 build/Trustify/production/_ext/1060005641/startup_xc32.o
+ .debug_frame   0x00000384       0x60 build/Trustify/production/_ext/1958438824/plib_pm.o
+ .debug_frame   0x000003e4       0x64 build/Trustify/production/_ext/582071996/plib_eic.o
+ .debug_frame   0x00000448       0x20 build/Trustify/production/_ext/1542791463/bsp.o
+ .debug_frame   0x00000468       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+ .debug_frame   0x00000494       0x2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+
+.stack          0x200000a8      0x100
+ .stack         0x200000a8      0x100 stack
+
+.bss%1          0x2000006c       0x1c
+ .bss           0x2000006c       0x1c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+
+.bss.count%2    0x20000088        0x4
+ .bss.count     0x20000088        0x4 build/Trustify/production/_ext/1903470166/secure.o
+                0x20000088                count
+
+.eh_frame%z1    0x00000000        0x0
+ .eh_frame      0x00000000        0x0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+
+.text.CLOCK_Initialize%3
+                0x00000114       0xb8
+ .text.CLOCK_Initialize
+                0x00000114       0xb8 build/Trustify/production/_ext/1027182637/plib_clock.o
+                0x00000114                CLOCK_Initialize
+
+.text.__pic32c_data_initialization%4
+                0x000001cc       0x88
+ .text.__pic32c_data_initialization
+                0x000001cc       0x88 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libpic32c.a(data_init.o)
+                0x000001cc                __pic32c_data_initialization
+
+.text.EIC_Initialize%5
+                0x00000254       0x5c
+ .text.EIC_Initialize
+                0x00000254       0x5c build/Trustify/production/_ext/582071996/plib_eic.o
+                0x00000254                EIC_Initialize
+
+.text.Reset_Handler%6
+                0x000002b0       0x50
+ .text.Reset_Handler
+                0x000002b0       0x50 build/Trustify/production/_ext/1060005641/startup_xc32.o
+                0x000002b0                Reset_Handler
+
+.text.__libc_init_array%7
+                0x00000300       0x48
+ .text.__libc_init_array
+                0x00000300       0x48 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v8-m.base\libc_nano.a(lib_a-init.o)
+                0x00000300                __libc_init_array
+
+.text%8         0x00000348       0x40
+ .text          0x00000348       0x40 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base/crtbegin.o
+
+.dinit%9        0x00000388       0x40
+ .dinit         0x00000388       0x40 data_init
+
+.text.PORT_Initialize%10
+                0x000003c8       0x3c
+ .text.PORT_Initialize
+                0x000003c8       0x3c build/Trustify/production/_ext/864028644/plib_port.o
+                0x000003c8                PORT_Initialize
+
+.text.SYS_Initialize%11
+                0x00000404       0x34
+ .text.SYS_Initialize
+                0x00000404       0x34 build/Trustify/production/_ext/1060005641/initialization.o
+                0x00000404                SYS_Initialize
+
+.text.main%12   0x00000438       0x34
+ .text.main     0x00000438       0x34 build/Trustify/production/_ext/1360937237/main.o
+                0x00000438                main
+
+.text%13        0x0000046c       0x32
+ .text          0x0000046c       0x32 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v8-m.base\libgcc.a(cmse_nonsecure_call.o)
+                0x0000046c                __gnu_cmse_nonsecure_call
+
+.text.NVIC_Initialize%14
+                0x000004a0       0x30
+ .text.NVIC_Initialize
+                0x000004a0       0x30 build/Trustify/production/_ext/864081795/plib_nvic.o
+                0x000004a0                NVIC_Initialize
+
+.text.SYSTICK_TimerInitialize%15
+                0x000004d0       0x24
+ .text.SYSTICK_TimerInitialize
+                0x000004d0       0x24 build/Trustify/production/_ext/1883465617/plib_systick.o
+                0x000004d0                SYSTICK_TimerInitialize
+
+.text.PM_Initialize%16
+                0x000004f4       0x24
+ .text.PM_Initialize
+                0x000004f4       0x24 build/Trustify/production/_ext/1958438824/plib_pm.o
+                0x000004f4                PM_Initialize
+
+.text.secure_Toggle%17
+                0x00000518       0x1c
+ .text.secure_Toggle
+                0x00000518       0x1c build/Trustify/production/_ext/1903470166/veneer.o
+                0x00000518                __acle_se_secure_Toggle
+
+.text.secure_Systick_Init%18
+                0x00000534       0x1c
+ .text.secure_Systick_Init
+                0x00000534       0x1c build/Trustify/production/_ext/1903470166/veneer.o
+                0x00000534                __acle_se_secure_Systick_Init
+
+.text.SysTick_Handler%19
+                0x00000550       0x1c
+ .text.SysTick_Handler
+                0x00000550       0x1c build/Trustify/production/_ext/1883465617/plib_systick.o
+                0x00000550                SysTick_Handler
+
+.text.secure_add%20
+                0x0000056c       0x1a
+ .text.secure_add
+                0x0000056c       0x1a build/Trustify/production/_ext/1903470166/veneer.o
+                0x0000056c                __acle_se_secure_add
+
+.text.secure_Systick_GetElapse%21
+                0x00000586       0x1a
+ .text.secure_Systick_GetElapse
+                0x00000586       0x1a build/Trustify/production/_ext/1903470166/veneer.o
+                0x00000586                __acle_se_secure_Systick_GetElapse
+
+.text.Systick_Init%22
+                0x000005a0       0x14
+ .text.Systick_Init
+                0x000005a0       0x14 build/Trustify/production/_ext/1903470166/secure.o
+                0x000005a0                Systick_Init
+
+.text.SYSTICK_TimerStart%23
+                0x000005b4       0x14
+ .text.SYSTICK_TimerStart
+                0x000005b4       0x14 build/Trustify/production/_ext/1883465617/plib_systick.o
+                0x000005b4                SYSTICK_TimerStart
+
+.text.NVMCTRL_Initialize%24
+                0x000005c8       0x10
+ .text.NVMCTRL_Initialize
+                0x000005c8       0x10 build/Trustify/production/_ext/2117940715/plib_nvmctrl.o
+                0x000005c8                NVMCTRL_Initialize
+
+.text.SystemTick_Callback%25
+                0x000005d8       0x10
+ .text.SystemTick_Callback
+                0x000005d8       0x10 build/Trustify/production/_ext/1903470166/secure.o
+                0x000005d8                SystemTick_Callback
+
+.text.Systick_GetElapse%26
+                0x000005e8       0x10
+ .text.Systick_GetElapse
+                0x000005e8       0x10 build/Trustify/production/_ext/1903470166/secure.o
+                0x000005e8                Systick_GetElapse
+
+.text.Toggle%27
+                0x000005f8        0xc
+ .text.Toggle   0x000005f8        0xc build/Trustify/production/_ext/1903470166/secure.o
+                0x000005f8                Toggle
+
+.text.SYSTICK_TimerCallbackSet%28
+                0x00000604        0xc
+ .text.SYSTICK_TimerCallbackSet
+                0x00000604        0xc build/Trustify/production/_ext/1883465617/plib_systick.o
+                0x00000604                SYSTICK_TimerCallbackSet
+
+.text.BSP_Initialize%29
+                0x00000610        0xc
+ .text.BSP_Initialize
+                0x00000610        0xc build/Trustify/production/_ext/1542791463/bsp.o
+                0x00000610                BSP_Initialize
+
+.text.add%30    0x0000061c        0x4
+ .text.add      0x0000061c        0x4 build/Trustify/production/_ext/1903470166/secure.o
+                0x0000061c                add
+
+.text.EVSYS_Initialize%31
+                0x0000049e        0x2
+ .text.EVSYS_Initialize
+                0x0000049e        0x2 build/Trustify/production/_ext/1025033151/plib_evsys.o
+                0x0000049e                EVSYS_Initialize
+
+.text.Dummy_Handler%32
+                0x00000620        0x2
+ .text.Dummy_Handler
+                0x00000620        0x2 build/Trustify/production/_ext/1060005641/interrupts.o
+                0x00000620                SVCall_Handler
+                0x00000620                EVSYS_0_Handler
+                0x00000620                TRNG_Handler
+                0x00000620                ADC_RESRDY_Handler
+                0x00000620                TC2_Handler
+                0x00000620                AC_Handler
+                0x00000620                DMAC_OTHER_Handler
+                0x00000620                PendSV_Handler
+                0x00000620                EVSYS_3_Handler
+                0x00000620                RTC_Handler
+                0x00000620                SERCOM1_OTHER_Handler
+                0x00000620                EVSYS_1_Handler
+                0x00000620                DMAC_0_Handler
+                0x00000620                WDT_Handler
+                0x00000620                TRAM_Handler
+                0x00000620                EVSYS_NSCHK_Handler
+                0x00000620                EIC_EXTINT_1_Handler
+                0x00000620                TC1_Handler
+                0x00000620                DAC_EMPTY_Handler
+                0x00000620                PAC_Handler
+                0x00000620                Dummy_Handler
+                0x00000620                DMAC_2_Handler
+                0x00000620                DMAC_1_Handler
+                0x00000620                EIC_EXTINT_2_Handler
+                0x00000620                SERCOM1_1_Handler
+                0x00000620                NVMCTRL_Handler
+                0x00000620                PORT_Handler
+                0x00000620                SYSTEM_Handler
+                0x00000620                SERCOM1_0_Handler
+                0x00000620                SERCOM2_1_Handler
+                0x00000620                SERCOM1_2_Handler
+                0x00000620                SERCOM2_2_Handler
+                0x00000620                EIC_EXTINT_3_Handler
+                0x00000620                PTC_Handler
+                0x00000620                EVSYS_2_Handler
+                0x00000620                SERCOM2_OTHER_Handler
+                0x00000620                FREQM_Handler
+                0x00000620                DAC_UNDERRUN_A_Handler
+                0x00000620                TC0_Handler
+                0x00000620                ADC_OTHER_Handler
+                0x00000620                DMAC_3_Handler
+                0x00000620                SERCOM2_0_Handler
+
+.text.NonMaskableInt_Handler%33
+                0x00000622        0x2
+ .text.NonMaskableInt_Handler
+                0x00000622        0x2 build/Trustify/production/_ext/1060005641/exceptions.o
+                0x00000622                NonMaskableInt_Handler
+
+.text.HardFault_Handler%34
+                0x00000624        0x2
+ .text.HardFault_Handler
+                0x00000624        0x2 build/Trustify/production/_ext/1060005641/exceptions.o
+                0x00000624                HardFault_Handler
