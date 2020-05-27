@@ -5,7 +5,7 @@
 ------------------------
 Makers developed a secure platform during COVID-19 period to support communities and device manufacturers on re-thinking security strategies for their future product roadmap. This platform design demonstrates how to protect digital assets, firmware, intellectual property and keys by design. 
 
-  - *MCU*: SAML11 - CortexM23 with TrustZone Hypervisor [View certificate](https://www.psacertified.org/products/saml11/)
+  - *MCU*: SAML11 - CortexM23 with TrustZone Hypervisor [View PSA certificate](https://www.psacertified.org/products/saml11/)
   - *Secure Element*: JIL rated ATECC608A Trust & Go with pre-provisioned certificate chain, keys
   - *Programmer / Debugger*: Microchip low cost SNAP / PicKIT4
   - *Expansion Connectors*: Mikroelektronika Click / Microchip Xplained
