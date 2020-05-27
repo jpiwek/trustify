@@ -10,6 +10,7 @@ Makers developed a secure platform during COVID-19 period to support communities
   - *Programmer / Debugger*: Microchip low cost SNAP / PicKIT4
   - *Expansion Connectors*: Mikroelektronika Click / Microchip Xplained
   - *Interfaces*: FTDI USB to UART Bridge for debugging and powering the board
+  - *Others*: 2x LEDs and 2x push button
   
 ![Trustify](images/trustify.png)
  
